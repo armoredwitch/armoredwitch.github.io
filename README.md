@@ -53,7 +53,7 @@ Setting agnostic powers, representing a goal or an idea. Utility characters to e
 
 These cards may be tied to unusual for me setting, or to be too different from others to be grouped with them. 
 
-**Misc**: [Sarah](misc/Sarah.png) the bartender, , [Marta](misc/Marta.png) the angelic nurse, [Magna](misc/Magna.png) the fiery priestess, [Kabeko](misc/Kabeko.png) the wall
+**Misc**: [Sarah](misc/Sarah.png) the bartender
 
 **The High War**: [Zentonya](high_war/Zentonya.png) the Soviet warmage.
 

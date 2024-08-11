@@ -14,7 +14,7 @@ These cards have been discarded
 
 **Gods**: [Morwen](powers/Morwen.png) the goddess of the end (introspection), [Setreya](powers/Setreya.png) the goddess of the dream (reflection), [Madar](powers/Madar.png) the goddess of creation (creation)
 
-**Misc**: [Dremara](misc/Dremara.png) the eldritch god, [Bed-chan](misc/Bed-chan.png), [Alba](misc/Alba.png) the mysterious stranger
+**Misc**: [Dremara](misc/Dremara.png) the eldritch god, [Bed-chan](misc/Bed-chan.png), [Alba](misc/Alba.png) the mysterious stranger, [Magna](misc/Magna.png) the fiery priestess, [Marta](misc/Marta.png) the angelic nurse,  [Kabeko](misc/Kabeko.png) the wall
 
 **Sci-fi**: [Hoshi](sci-fi/Hoshi.png) the planetary killer
 
