@@ -23,13 +23,13 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 
 **Northern Kingdom**: [Skuggja](northern_kingdom/Skuggja.png) the vampire queen, [Stjarna](northern_kingdom/Stjarna.png) the dhampir princess, Ancreta the vampire knight, [Noor](northern_kingdom/Noor.png) the highlander, [Derya](northern_kingdom/Derya.png) the visceral pirate  
 
-**Nights at the Tavern**: [Rosie](tavern/Rosie.png) the barmaid, [Lily](tavern/Lily.png) the barmaid, [Parisa](tavern/Parisa.png) the bard
+**Nights at the Tavern**: [Rosie](tavern/Rosie.png) the barmaid, [Lily](tavern/Lily.png) the barmaid, [Parisa](tavern/Parisa.png) the bard  
 **Life in the Small Town**: [Mystral](small_town/Mystral.png) the cat-girl maid, [Harmony](small_town/Harmony.png) the mushroom-girl, [Ban](small_town/Ban.png) the clingy cat-girl, [Sora](small_town/Sora.png) the towering kitsune maid, [Tinnueth](small_town/Tinnueth.png) the warrior maid  
 
-**Yandere of the Deep Dark**: [Itsumera](https://chub.ai/characters/Yaethi/itsumera-91dbcbbf3be6) the dragon, [Brikki](https://chub.ai/characters/Yaethi/brikki-d4d18a979c1f) the ratkin, [Akis](https://chub.ai/characters/Yaethi/akis-fd86a065dea5) the lamia 
-**Legends of the Deep Dark**: [Nibur](https://chub.ai/characters/Yaethi/nibur-72d128984f34) the minotaur, [Vyx](https://chub.ai/characters/Yaethi/vyx-f4e5d4031968) the scarred dark elf, Viessa the vampire
-**The Hole**: [Pippi](https://chub.ai/characters/Yaethi/pippi-0b13557289d9) the mushroom farmer, [Gara](https://chub.ai/characters/Yaethi/gara-155f7e8e3b6e) the sassy guard
-**Monsters of the Deep Dark**: [Zynkara](https://chub.ai/characters/Yaethi/zynkara-a9f442526329) the spider, [Surge](https://chub.ai/characters/Yaethi/surge-3d57d94dfb5f) the shadow
+**Yandere of the Deep Dark**: [Itsumera](deep_dark/yandere/Itsumera.png) the dragon, [Brikki](deep_dark/yandere/Brikki.png) the ratkin, [Akis](deep_dark/yandere/Akis.png) the lamia  
+**Legends of the Deep Dark**: [Nibur](deep_dark/legends/Nibur.png) the minotaur, [Vyx](deep_dark/legends/Vyx.png) the scarred dark elf, Viessa the vampire  
+**The Hole**: [Pippi](deep_dark/the_hole/Pippi.png) the mushroom farmer, [Gara](deep_dark/the_hole/Gara.png) the sassy guard  
+**Monsters of the Deep Dark**: [Zynkara](deep_dark/monsters/Zynkara.png) the spider, [Surge](deep_dark/monsters/Surge.png) the shadow
 
 **Monsters of the Jungle**: [Karina](https://chub.ai/characters/Yaethi/karina-8b67590ae197) the dryad empress, [Caramel](https://chub.ai/characters/Yaethi/caramel-2535247bb7dd) the vampiric slime
 
