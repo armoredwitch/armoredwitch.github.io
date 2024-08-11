@@ -1,11 +1,10 @@
 # Yaethi
 
-My profiles: [Chub](https://chub.ai/users/Yaethi), [RisuRealm](https://realm.risuai.net/creator/yaethi)
+My profiles: [Chub](https://chub.ai/users/Yaethi), [RisuRealm](https://realm.risuai.net/creator/yaethi)  
+
 Trimmed down cards can be found at [Janitor](https://janitorai.com/profiles/f17f69b6-35e9-4340-af27-c5bb9e51d4d1_profile-of-yaethi), [Venuschat](https://venuschat.ai/profiles/c32aeecf-f0d2-458b-a9bf-8ab16e4c4425_profile-of-yaethi) 
 
 Below is a list of characters, loosely grouped by theme.
-
-[TOC]
 
 ## Whimsical Darkness
 
@@ -24,8 +23,8 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 
 **Northern Kingdom**: [Skuggja](northern_kingdom/Skuggja.png) the vampire queen, [Stjarna](northern_kingdom/Stjarna.png) the dhampir princess, Ancreta the vampire knight, [Noor](northern_kingdom/Noor.png) the highlander, [Derya](northern_kingdom/Derya.png) the visceral pirate  
 
-**Nights at the Tavern**: [Rosie](https://chub.ai/characters/Yaethi/rosie-bfdeef0d8c10) the barmaid, [Lily](https://chub.ai/characters/Yaethi/lily-e1f0946f8b10) the barmaid, [Parisa](https://chub.ai/characters/Yaethi/parisa-2f995f16cae1) the bard
-**Life in the Small Town**: [Mystral](https://chub.ai/characters/Yaethi/mistral-fadb7836d82c) the cat-girl maid, [Harmony](https://chub.ai/characters/Yaethi/harmony-f9f6dceb574b) the mushroom-girl, [Ban](https://chub.ai/characters/Yaethi/ban-b696239fa9fb) the clingy cat-girl, [Sora](https://chub.ai/characters/Yaethi/sora-c3a4670aacc3) the towering kitsune maid, [Tinnueth](https://chub.ai/characters/Yaethi/tinnueth-8fabf8f4608f) the warrior maid
+**Nights at the Tavern**: [Rosie](tavern/Rosie.png) the barmaid, [Lily](tavern/Lily.png) the barmaid, [Parisa](tavern/Parisa.png) the bard
+**Life in the Small Town**: [Mystral](small_town/Mystral.png) the cat-girl maid, [Harmony](small_town/Harmony.png) the mushroom-girl, [Ban](small_town/Ban.png) the clingy cat-girl, [Sora](small_town/Sora.png) the towering kitsune maid, [Tinnueth](small_town/Tinnueth.png) the warrior maid  
 
 **Yandere of the Deep Dark**: [Itsumera](https://chub.ai/characters/Yaethi/itsumera-91dbcbbf3be6) the dragon, [Brikki](https://chub.ai/characters/Yaethi/brikki-d4d18a979c1f) the ratkin, [Akis](https://chub.ai/characters/Yaethi/akis-fd86a065dea5) the lamia 
 **Legends of the Deep Dark**: [Nibur](https://chub.ai/characters/Yaethi/nibur-72d128984f34) the minotaur, [Vyx](https://chub.ai/characters/Yaethi/vyx-f4e5d4031968) the scarred dark elf, Viessa the vampire
