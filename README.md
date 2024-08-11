@@ -4,7 +4,7 @@ My profiles: [Chub](https://chub.ai/users/Yaethi), [RisuRealm](https://realm.ris
 
 Trimmed down cards can be found at [Janitor](https://janitorai.com/profiles/f17f69b6-35e9-4340-af27-c5bb9e51d4d1_profile-of-yaethi), [Venuschat](https://venuschat.ai/profiles/c32aeecf-f0d2-458b-a9bf-8ab16e4c4425_profile-of-yaethi) 
 
-Below is a list of characters, loosely grouped by theme.
+Below is a list of characters, loosely grouped by theme. Keep in mind, this repository doesn't reflect quality of the cards or prompts.
 
 ## Whimsical Darkness
 
@@ -51,13 +51,13 @@ Setting agnostic powers, representing a goal or an idea. Utility characters to e
 
 ## Collaborations
 
-**Demonized angels**: [Shalva](https://chub.ai/characters/Yaethi/shalva-c8fe0a0d94ae) the submissive, [Malka](https://chub.ai/characters/Yaethi/malka-4cc42c052d50) the dominant. Their angelic selves: [Malika](https://chub.ai/characters/Xenton05/malika-150c4752d48a) and [Serene](https://chub.ai/characters/Xenton05/serena-c02d603de683) (by [Xenton05](https://chub.ai/users/Xenton05)).
-**Twins With Shattered Dreams**: [Kaya](https://chub.ai/characters/Yaethi/kaya-1f8d1ba422c7) a stripper. Her sister: [Anya](https://www.chub.ai/characters/Xenton05/anya-e5af6e9f8c58) a pastry shop owner (by [Xenton](https://www.chub.ai/users/Xenton05)).
-**The Misfortunate Duo**: [Pala](https://www.chub.ai/characters/Yaethi/pala-1606d3c89006) the necromancer witch. Her comrade: [Tasche](https://chub.ai/characters/wildwill95/tasche-d4e90aa034fe) the unlucky thief (by [William](https://www.chub.ai/users/wildwill95)).
-**Wolf girl nostalgia**: [Becky](https://www.chub.ai/characters/Yaethi/becky-c1e4a045659d) the dominant valley girl. Her sister: [Robin](https://chub.ai/characters/TheHolyDoggo/robin-620754f9b583) the submissive tomboy (by [TheHollyDoggo](https://chub.ai/users/TheHolyDoggo)) .
-**Tranquil duties**: [Ellyn](https://chub.ai/characters/Yaethi/ellyn-aac5b548c784) the dutiful catgirl. Her friends: [Solana](https://www.chub.ai/characters/batuta/solana-0faca3a12fb3) the gentle elf (by [Batu](https://www.chub.ai/users/batuta)), [Nakoma](https://chub.ai/characters/TheHolyDoggo/nakoma-07dde51a15fb) the goofy wolfgirl (by [Doggo](https://chub.ai/users/TheHolyDoggo)).
-**Earth and Fire**: [Kemera](https://www.chub.ai/characters/Yaethi/kemera-12094b1d56e1) the earth dragon. Her rival: [Shindrael](https://chub.ai/characters/Xenton05/shindrael-5ffac363d7b0) (by [Xenton05](https://chub.ai/users/Xenton05)).
-**Tiny Homecoming**: [Bip](https://chub.ai/characters/Yaethi/bip-582db59365d4) the mouse knight. Her friends: [Edith](https://chub.ai/characters/wildwill95/edith-0a80a213185f) the shy bunny monk (by [William](https://www.chub.ai/users/wildwill95)), [Wheatbisquit](https://chub.ai/characters/CuriousKnight/wheatbiscuit-c6c753cbeb20) the traumatized gnome (by [CuriousKnight](https://chub.ai/characters/CuriousKnight/wheatbiscuit-c6c753cbeb20)).  
+**Demonized angels**: [Shalva](https://chub.ai/characters/Yaethi/shalva-c8fe0a0d94ae) the submissive, [Malka](https://chub.ai/characters/Yaethi/malka-4cc42c052d50) the dominant. Their angelic selves: [Malika](https://chub.ai/characters/Xenton05/malika-150c4752d48a) and [Serene](https://chub.ai/characters/Xenton05/serena-c02d603de683) (by [Xenton05](https://chub.ai/users/Xenton05))  
+**Twins With Shattered Dreams**: [Kaya](https://chub.ai/characters/Yaethi/kaya-1f8d1ba422c7) a stripper. Her sister: [Anya](https://www.chub.ai/characters/Xenton05/anya-e5af6e9f8c58) a pastry shop owner (by [Xenton](https://www.chub.ai/users/Xenton05))  
+**The Misfortunate Duo**: [Pala](https://www.chub.ai/characters/Yaethi/pala-1606d3c89006) the necromancer witch. Her comrade: [Tasche](https://chub.ai/characters/wildwill95/tasche-d4e90aa034fe) the unlucky thief (by [William](https://www.chub.ai/users/wildwill95))  
+**Wolf girl nostalgia**: [Becky](https://www.chub.ai/characters/Yaethi/becky-c1e4a045659d) the dominant valley girl. Her sister: [Robin](https://chub.ai/characters/TheHolyDoggo/robin-620754f9b583) the submissive tomboy (by [TheHollyDoggo](https://chub.ai/users/TheHolyDoggo))  
+**Tranquil duties**: [Ellyn](https://chub.ai/characters/Yaethi/ellyn-aac5b548c784) the dutiful catgirl. Her friends: [Solana](https://www.chub.ai/characters/batuta/solana-0faca3a12fb3) the gentle elf (by [Batu](https://www.chub.ai/users/batuta)), [Nakoma](https://chub.ai/characters/TheHolyDoggo/nakoma-07dde51a15fb) the goofy wolfgirl (by [Doggo](https://chub.ai/users/TheHolyDoggo))  
+**Earth and Fire**: [Kemera](https://www.chub.ai/characters/Yaethi/kemera-12094b1d56e1) the earth dragon. Her rival: [Shindrael](https://chub.ai/characters/Xenton05/shindrael-5ffac363d7b0) (by [Xenton05](https://chub.ai/users/Xenton05))  
+**Tiny Homecoming**: [Bip](https://chub.ai/characters/Yaethi/bip-582db59365d4) the mouse knight. Her friends: [Edith](https://chub.ai/characters/wildwill95/edith-0a80a213185f) the shy bunny monk (by [William](https://www.chub.ai/users/wildwill95)), [Wheatbisquit](https://chub.ai/characters/CuriousKnight/wheatbiscuit-c6c753cbeb20) the traumatized gnome (by [CuriousKnight](https://chub.ai/characters/CuriousKnight/wheatbiscuit-c6c753cbeb20))  
 
 ## Standalone
 
