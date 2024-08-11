@@ -1,0 +1,30 @@
+body {
+    background-color: #1e1e1e;
+    color: #d3d3d3;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin: 0;
+}
+
+article {
+    max-width: 800px;
+    width: 100%;
+    padding: 20px;
+}
+
+a {
+    color: #f3f3d3;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+}

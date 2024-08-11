@@ -1,5 +1,7 @@
 These cards have been discarded
 
+**Dark Forest**: [Magnificent](dark_forest/Magnificent.png) the midwife witch  
+
 **The Hole**: [Pippi](deep_dark/the_hole/Pippi.png) the mushroom farmer, [Gara](deep_dark/the_hole/Gara.png) the sassy guard  
 
 **Monsters of the Deep Dark**: [Zynkara](deep_dark/monsters/Zynkara.png) the spider, [Surge](deep_dark/monsters/Surge.png) the shadow
