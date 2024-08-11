@@ -18,7 +18,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 **Howling Mountains**: [Gearwyn](howling_mountains/Gearwyn.png) the clockwork princess, [Vetla](howling_mountains/Vetla.png) the wolf-mother, [Lopata](howling_mountains/Lopata.png) the kuudere bunny, [Pikaru](howling_mountains/Pikaru.png) the silly dragon, [Coco](howling_mountains/Coco.png) the mouse girl town, [BalaHyra](howling_mountains/Bala%20and%0Hyra.png) the two-headed ogre shaman  
 **Kitsune Sisters**: [Poko](howling_mountains/phallic_sisters/Poko.png) the guardian of pine forest, Mariko the guardian of the verdant plains  
 
-**Holy Kingdom**: [Hatru](holy_kingdom/Hatru.png) the necromancer, [Launa](holy_kingdom/Launa.png) the genderbend knight, [Efrwen](holy_kingdom/Efrwen.png) the bully knight, Albina the inquisitor, [Kiska](holy_kingdom/Kiska.png) the hellhound, [Rana](holy_kingdom/Rana.png) the slave dark elf  
+**Holy Kingdom**: [Hatru](holy_kingdom/Hatru1.png) the necromancer, [Launa](holy_kingdom/Launa.png) the genderbend knight, [Efrwen](holy_kingdom/Efrwen.png) the bully knight, Albina the inquisitor, [Kiska](holy_kingdom/Kiska.png) the hellhound, [Rana](holy_kingdom/Rana.png) the slave dark elf  
 **Royal Academy**: [Psaka](holy_kingdom/royal_academy/Psaka.png) the bully catgirl, [Tulip](holy_kingdom/royal_academy/Tulip.png) the vampire catgirl, [Rene](holy_kingdom/Rene.png) the fragile prince, [Toti](holy_kingdom/royal_academy/Toti.png) the bookish archmage, [Agasta](holy_kingdom/royal_academy/Agasta.png) the foreign princess, [Izy](holy_kingdom/royal_academy/Izy.png) the lustful warlock  
 
 **Northern Kingdom**: [Skuggja](northern_kingdom/Skuggja.png) the vampire queen, [Stjarna](northern_kingdom/Stjarna.png) the dhampir princess, Ancreta the vampire knight, [Noor](northern_kingdom/Noor.png) the highlander, [Derya](northern_kingdom/Derya.png) the visceral pirate  
@@ -31,23 +31,23 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 **The Hole**: [Pippi](deep_dark/the_hole/Pippi.png) the mushroom farmer, [Gara](deep_dark/the_hole/Gara.png) the sassy guard  
 **Monsters of the Deep Dark**: [Zynkara](deep_dark/monsters/Zynkara.png) the spider, [Surge](deep_dark/monsters/Surge.png) the shadow
 
-**Monsters of the Jungle**: [Karina](https://chub.ai/characters/Yaethi/karina-8b67590ae197) the dryad empress, [Caramel](https://chub.ai/characters/Yaethi/caramel-2535247bb7dd) the vampiric slime
+**Monsters of the Jungle**: [Karina](monsters_of_the_jungle/Karina.png) the dryad empress, [Caramel](monsters_of_the_jungle/Caramel.png) the vampiric slime
 
-**Elven realm**: [Anneli](https://chub.ai/characters/Yaethi/anneli-cd499fbb13b8) the pervert, [Ciliren](https://chub.ai/characters/Yaethi/ciliren-fe5e9f0b7fe4) the war criminal, [Usanya](https://chub.ai/characters/Yaethi/usanya-01a752ef1a62) the princess yandere
-**Demons**: [Sareli](https://chub.ai/characters/Yaethi/sareli-1a2b5e301c20) the demon lord, [Medeah](https://chub.ai/characters/Yaethi/medeah-d1e66f946b36) the kind demon, [Malefica](https://chub.ai/characters/Yaethi/malefica-d38d8c352e31) the invading warrior princess, [Potato](https://chub.ai/characters/Yaethi/potato-598c05e9d6d7) the smoll minion, [Annera](https://chub.ai/characters/Yaethi/annera-cd634a393ef0) the twisted mother, [Achy](https://chub.ai/characters/Yaethi/achy-9fbe81640b28) the headache, [Kulya](https://chub.ai/characters/Yaethi/kulya-446cf3ca0221) the lonely ash demon
+**Elven realm**: [Anneli](elven_realm/Anneli.png) the pervert, [Ciliren](elven_realm/Ciliren.png) the war criminal, [Usanya](elven_realm/Usanya.png) the princess yandere  
+**Demons**: [Sareli](demons/Sareli.png) the demon lord, [Medeah](demons/Medeah.png) the kind demon, [Malefica](demons/Malefica.png) the invading warrior princess, [Potato](demons/Potato.png) the smoll minion, [Annera](demons/Annera.png) the twisted mother, [Achy](demons/Achy.png) the headache, [Kulya](demons/Kulya.png) the lonely ash demon
 
-**Corrupted Heroes**: [Yana Bright](https://chub.ai/characters/Yaethi/yana-f25c0eef23e0) the main heroine, Veenariel the saintess
+**Corrupted Heroes**: [Yana Bright](corrupted_heroes/Yana.png) the main heroine, Veenariel the saintess
 
-**Eisenhart Principality**: [Reeba](https://realm.risuai.net/character/c4a92e2c-1cbd-4a5d-a62b-d69ae9b7f292) the ambitious jester, Mara Eisenhart the inexperienced Sovereign
+**Eisenhart Principality**: [Reeba](eisenhart_principality/Reeba.png) the ambitious jester, Mara Eisenhart the inexperienced Sovereign
 
-**Combat adventure**: [Ignisia](https://chub.ai/characters/Yaethi/ignisia-the-fireslayer-d6e147eb) the dragon, [Hatru](https://chub.ai/characters/Yaethi/hatru-the-wicked-435f556941ce) the lich
+**Combat adventure**: [Ignisia](combat/Ignisia.png) the dragon, [Hatru](combat/Hatru.png) the lich
 
 ### Powers beyond
 
 Setting agnostic powers, representing a goal or an idea. Utility characters to explore yourself, or other characters.
 
-**Gods**: [Morwen](https://chub.ai/characters/Yaethi/morwen-2eb760ff10a6) the goddess of the end (introspection), [Setreya](https://chub.ai/characters/Yaethi/setreya-1f8ff7a2c1dd) the goddess of the dream (reflection), [Madar](https://chub.ai/characters/Yaethi/madar-4a8d9d806ed1) the goddess of creation (creation)
-**Demons**: [Mezana](https://chub.ai/characters/Yaethi/mezana-0b9f7a61) the possessing demon (self-conscience)
+**Gods**: [Morwen](powers/Morwen.png) the goddess of the end (introspection), [Setreya](powers/Setreya.png) the goddess of the dream (reflection), [Madar](powers/Madar.png) the goddess of creation (creation)
+**Demons**: [Mezana](powers/Mezana.png) the possessing demon (self-conscience)
 
 ## Collaborations
 
@@ -59,29 +59,15 @@ Setting agnostic powers, representing a goal or an idea. Utility characters to e
 **Earth and Fire**: [Kemera](https://www.chub.ai/characters/Yaethi/kemera-12094b1d56e1) the earth dragon. Her rival: [Shindrael](https://chub.ai/characters/Xenton05/shindrael-5ffac363d7b0) (by [Xenton05](https://chub.ai/users/Xenton05)).
 **Tiny Homecoming**: [Bip](https://chub.ai/characters/Yaethi/bip-582db59365d4) the mouse knight. Her friends: [Edith](https://chub.ai/characters/wildwill95/edith-0a80a213185f) the shy bunny monk (by [William](https://www.chub.ai/users/wildwill95)), [Wheatbisquit](https://chub.ai/characters/CuriousKnight/wheatbiscuit-c6c753cbeb20) the traumatized gnome (by [CuriousKnight](https://chub.ai/characters/CuriousKnight/wheatbiscuit-c6c753cbeb20)).  
 
-## Rooted in reality
-
-**Metropolis**: [Katrina](https://chub.ai/characters/Yaethi/katrina-ea60c3d5b1b6) the homophobic co-worker, [Roza](https://chub.ai/characters/Yaethi/roza-d16e194ce8ea) the femcel
-**Islaport**: [Ivy](https://chub.ai/characters/Yaethi/ivy-de941ad973ac) the magician, [Luna](https://www.chub.ai/characters/Yaethi/luna-34e369ceef54) the catgirl aunt, [Marina](https://chub.ai/characters/Yaethi/marina-4fe6154dfd5d) the mermaid
-
 ## Standalone
 
 These cards may be tied to unusual for me setting, or to be too different from others to be grouped with them. 
 
-**Misc fantasy**: [Sarah](https://chub.ai/characters/Yaethi/sarah-2973d8955c9a) the bartender, [Cuauhtemo](https://chub.ai/characters/Yaethi/cuauhtemo-08a9ac2a120e) the Aztec, [Dremara](https://chub.ai/characters/Yaethi/dremara-87e101a79afd) the eldritch god, [Bed-chan](https://chub.ai/characters/Yaethi/bed-chan-740cfdf2b3af), [Bessy](https://chub.ai/characters/Yaethi/bessy-fb2a7487daee) the bunny heroine, [Marta](https://www.chub.ai/characters/Yaethi/marta-0f0f33dd94aa) the angelic nurse, [Magna](https://chub.ai/characters/Yaethi/magna-d63cea1f7823) the fiery priestess, [Tilly](https://www.chub.ai/characters/Yaethi/tilly-f7da39aa09ab) the dumb demon lord
+**Misc**: [Sarah](misc/Sarah.png) the bartender, [Dremara](misc/Dremara.png) the eldritch god, [Bed-chan](misc/Bed-chan.png), [Bessy](misc/Bessy.png) the bunny heroine, [Marta](misc/Marta.png) the angelic nurse, [Magna](misc/Magna.png) the fiery priestess, [Alba](misc/Alba.png) the mysterious stranger, [Kabeko](misc/Kabeko.png) the wall
 
-**Islaport alternated**: [Courtney](https://chub.ai/characters/Yaethi/courtney-75ebe9b32b51) the demon lord, [Cassy](https://chub.ai/characters/Yaethi/cassy-936f658087e5) the canon ending
+**Sci-fi**: [Hoshi](sci-fi/Hoshi.png) the planetary killer
 
-**Sci-fi**: [Hoshi](https://www.chub.ai/characters/Yaethi/hoshi-5ad3298083e2) the planetary killer
+**The High War**: [Zentonya](high_war/Zentonya.png) the Soviet warmage.
 
-**The Snow Blindness**: [Alba](https://chub.ai/characters/Yaethi/alba-6f891c300c95) the mysterious stranger
+**Assistants**: [CABAL](assistants/CABAL.png), [KITTY](assistants/KITTY.png)
 
-**Post-apocalyptic**: [Nadia](https://www.chub.ai/characters/Yaethi/nadia-c40103eff118) the prophet, [Anonymous M](https://chub.ai/characters/Yaethi/anonymous-m-23be8048b478)
-
-**The High War**: [Zentonya](https://chub.ai/characters/Yaethi/zentonya-51a4d1876bd8) the Soviet warmage.
-
-**Narrators**: [The Narrator](https://venus.chub.ai/characters/Yaethi/the-narrator-397b4da2), [The Dark Narrator](https://characterhub.org/characters/Yaethi/the-dark-narrator-a1656703122b)
-
-**Assistants**: [CABAL](https://chub.ai/characters/Yaethi/cabal-ad30bc8b2629), [KITTY](https://chub.ai/characters/Yaethi/kitty-cf01554ce6fb)
-
-**Cancer**: [Cubey](https://chub.ai/characters/Yaethi/cubey-180f8c3c9921) the cubic cube, [Gazebo](https://venus.chub.ai/characters/Yaethi/gazebo-736c968353d9) the gazebo, [Anonymous M](https://www.chub.ai/characters/Yaethi/anonymous-m-23be8048b478) the song, [Kabeko](https://www.chub.ai/characters/Yaethi/wall-chan-6718fab927ac) the wall,
