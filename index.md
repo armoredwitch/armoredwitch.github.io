@@ -70,4 +70,9 @@ These cards may be tied to unusual for me setting, or to be too different from o
 
 **Assistants**: [CABAL](assistants/CABAL.png), [KITTY](assistants/KITTY.png)
 
+## Archive
+
+These cards have been discarded: [archive](archive.html)
+
+They are unlikely to be reinstated or receive any updates, although, requests can be made.
 
