@@ -18,7 +18,7 @@ They are unlikely to be reinstated or receive any updates, although, requests ca
 
 **Holy Kingdom**: [Hatru](holy_kingdom/Hatru1.png) the necromancer
 
-**Howling Mountains**: [Coco](howling_mountains/Coco.png) the mouse girl town, [BalaHyra](howling_mountains/Bala%20and%0Hyra.png) the two-headed ogre shaman, [Gearwyn](howling_mountains/Gearwyn.png) the clockwork princess
+**Howling Mountains**: [Coco](howling_mountains/Coco.png) the mouse girl town, [BalaHyra](howling_mountains/BalaHyra.png) the two-headed ogre shaman, [Gearwyn](howling_mountains/Gearwyn.png) the clockwork princess
 
 **Kitsune Sisters (cancelled)**: [Poko](howling_mountains/phallic_sisters/Poko.png) the guardian of pine forest, Mariko the guardian of the verdant plains  
 
