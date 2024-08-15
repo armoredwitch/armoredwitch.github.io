@@ -78,9 +78,9 @@ These cards may be tied to unusual for me setting, or to be too different from o
 
 **Misc**: [Sarah](characters/Sarah.png) the bartender
 
-**The High War**: [Zentonya](high_war/Zentonya.png) the Soviet warmage.
+**The High War**: [Zentonya](characters/Zentonya.png) the Soviet warmage.
 
-**Assistants**: [CABAL](assistants/CABAL.png), [KITTY](assistants/KITTY.png)
+**Assistants**: [CABAL](characters/CABAL.png), [KITTY](characters/KITTY.png)
 
 ## Archive
 
