@@ -6,6 +6,7 @@ article {
   max-width: 800px;
   margin: 40px auto;
   padding: 20px;
+  font-family: Sans;
   background-color: #222; /* dark gray */
   color: #ccc; /* bright gray */
   text-align: justify;

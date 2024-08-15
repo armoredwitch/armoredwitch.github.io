@@ -10,9 +10,9 @@ Below is a list of characters, loosely grouped by theme.
 
 ## Timeline
 
-2024-08-15: Added [Sam](characters/Sam.png)
-2024-08-15: Added [Eleven](characters/Eleven.png)
-2024-08-10: Added [Bip](characters/Bip.png)
+2024-08-15: Added [Sam](characters/Sam.png)  
+2024-08-15: Added [Eleven](characters/Eleven.png)  
+2024-08-10: Added [Bip](characters/Bip.png)  
 
 ## Whimsical Darkness
 
