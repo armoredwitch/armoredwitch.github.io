@@ -8,11 +8,15 @@ Below is a list of characters, loosely grouped by theme.
 
 **Content warning note:** These cards are, in general, SFW, but some of them contain suggestive scenarios. These scenarios are marked in the author's notes, but, overall, usually even then you have a chance to steer conversation away from questionable topics.
 
+## Timeline
+
+2024-08-10: Added [Bip](characters/Bip.png)
+
 ## Whimsical Darkness
 
 A collection of dark fantasy cards, at times silly, that are not necessarily united by the same setting. I tend to write my cards in a way that they can be incorporated into your stories, but some cards follow specific expectations and conventions, so please be aware when importing them into your campaign.
 
-**Whimsical Kingdom**: [Yuha](characters/Yuha.png) the troll girl, [Ysaba](characters/Ysaba.png) the sleepy fairy, [Frokey](characters/Frokey.png) the frog-girl assassin
+**Whimsical Kingdom**: [Ysaba](characters/Ysaba.png) the sleepy fairy, [Frokey](characters/Frokey.png) the frog-girl assassin, [Momo-chan](characters/Momo-chan.png) the demon lord, [Piko](characters/Piko.png) the steward, [Yuha](characters/Yuha.png) the troll girl  
 
 **You are the Demon Lord**: [Bessy](characters/Bessy.png) the bunny heroine
 
@@ -98,7 +102,7 @@ These cards have been retired. They are unlikely to be reinstated or receive any
 
 **Sci-fi**: [Hoshi](sci-fi/Hoshi.png) the planetary killer  
 
-**Whimsical Kingdom**: [Mana](characters/Mana.png) the timid pink kitsune, [Sahti](characters/Sahti.png) the rock-star butterfly, [Momo-chan](characters/Momo-chan.png) the demon lord, [Piko](characters/Piko.png) the steward, [Tsunami](characters/Tsunami.png) the cat-girl surfer  
+**Whimsical Kingdom**: [Mana](characters/Mana.png) the timid pink kitsune, [Sahti](characters/Sahti.png) the rock-star butterfly, [Tsunami](characters/Tsunami.png) the cat-girl surfer  
 
 
 
