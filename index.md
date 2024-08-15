@@ -12,37 +12,45 @@ Below is a list of characters, loosely grouped by theme.
 
 A collection of dark fantasy cards, at times silly, that are not necessarily united by the same setting. I tend to write my cards in a way that they can be incorporated into your stories, but some cards follow specific expectations and conventions, so please be aware when importing them into your campaign.
 
-**Whimsical Kingdom**: [Yuha](whimsical_kingdom/Yuha.png) the troll girl, [Ysaba](whimsical_kingdom/Ysaba.png) the sleepy fairy, [Frokey](whimsical_kingdom/Frokey.png) the frog-girl assassin
+**Whimsical Kingdom**: [Yuha](characters/Yuha.png) the troll girl, [Ysaba](characters/Ysaba.png) the sleepy fairy, [Frokey](characters/Frokey.png) the frog-girl assassin
 
-**You are the Demon Lord**: [Bessy](misc/Bessy.png) the bunny heroine
+**You are the Demon Lord**: [Bessy](characters/Bessy.png) the bunny heroine
 
-**Dark forest**: [Ophelia](dark_forest/Ophelia.png) the nec-romancer, [Nyavka](dark_forest/Nyavka.png) the catgirl spirit, [Enthonina](dark_forest/Enthonina.png) the lost princess
+**Dark forest**: [Ophelia](characters/Ophelia.png) the nec-romancer, [Nyavka](characters/Nyavka.png) the catgirl spirit, [Enthonina](characters/Enthonina.png) the lost princess, [Magnificent](characters/Magnificent.png) the midwife witch  
 
-**The Stolen Egg**:  [Daphne](the_stolen_egg/Daphne.png) the motherly harpy, [Fleur](the_stolen_egg/Fleur.png) the deranged harpy, [Aurora](the_stolen_egg/Aurora.png) the hopeful harpy  
+**The Stolen Egg**:  [Daphne](characters/Daphne.png) the motherly harpy, [Fleur](characters/Fleur.png) the deranged harpy, [Aurora](characters/Aurora.png) the hopeful harpy  
 
-**Howling Mountains**: [Vetla](howling_mountains/Vetla.png) the wolf-mother, [Lopata](howling_mountains/Lopata.png) the kuudere bunny, [Pikaru](howling_mountains/Pikaru.png) the silly dragon, 
+**Howling Mountains**: [Vetla](characters/Vetla.png) the wolf-mother, [Lopata](characters/Lopata.png) the kuudere bunny, [Pikaru](characters/Pikaru.png) the silly dragon, [Coco](characters/Coco.png) the mouse girl town, [BalaHyra](characters/BalaHyra.png) the two-headed ogre shaman, [Gearwyn](characters/Gearwyn.png) the clockwork princess  
 
-**Holy Kingdom**: [Launa](holy_kingdom/Launa.png) the genderbend knight, [Efrwen](holy_kingdom/Efrwen.png) the bully knight, Albina the inquisitor, [Kiska](holy_kingdom/Kiska.png) the hellhound, [Rana](holy_kingdom/Rana.png) the slave dark elf  
+**Holy Kingdom**: [Launa](characters/Launa.png) the genderbend knight, [Efrwen](characters/Efrwen.png) the bully knight, Albina the inquisitor, [Kiska](characters/Kiska.png) the hellhound, [Rana](characters/Rana.png) the slave dark elf, [Hatru](characters/Hatru1.png) the necromancer  
 
-**Royal Academy**: [Psaka](holy_kingdom/royal_academy/Psaka.png) the bully catgirl, [Rene](holy_kingdom/Rene.png) the fragile prince, [Agasta](holy_kingdom/royal_academy/Agasta.png) the foreign princess  
+**Royal Academy**: [Psaka](characters/Psaka.png) the bully catgirl, [Rene](characters/Rene.png) the fragile prince, [Agasta](characters/Agasta.png) the foreign princess  
 
-**Northern Kingdom**: [Skuggja](northern_kingdom/Skuggja.png) the vampire queen, [Stjarna](northern_kingdom/Stjarna.png) the dhampir princess
+**Northern Kingdom**: [Skuggja](characters/Skuggja.png) the vampire queen, [Stjarna](characters/Stjarna.png) the dhampir princess, [Noor](characters/Noor.png) the highlander
 
-**Nights at the Tavern**: [Rosie](tavern/Rosie.png) the barmaid, [Lily](tavern/Lily.png) the barmaid, [Parisa](tavern/Parisa.png) the bard  
+**Nights at the Tavern**: [Rosie](characters/Rosie.png) the barmaid, [Lily](characters/Lily.png) the barmaid, [Parisa](characters/Parisa.png) the bard  
 
-**Life in a Small Town**: [Mystral](small_town/Mystral.png) the cat-girl maid, [Ban](small_town/Ban.png) the clingy cat-girl, [Sora](small_town/Sora.png) the towering kitsune maid, [Tinnueth](small_town/Tinnueth.png) the warrior maid  
+**Life in a Small Town**: [Mystral](characters/Mystral.png) the cat-girl maid, [Ban](characters/Ban.png) the clingy cat-girl, [Sora](characters/Sora.png) the towering kitsune maid, [Tinnueth](characters/Tinnueth.png) the warrior maid, [Harmony](characters/Harmony.png) the mushroom-girl  
 
-**Yandere of the Deep Dark**: [Itsumera](deep_dark/yandere/Itsumera.png) the dragon, [Brikki](deep_dark/yandere/Brikki.png) the ratkin, [Akis](deep_dark/yandere/Akis.png) the lamia  
+**Yandere of the Deep Dark**: [Itsumera](characters/Itsumera.png) the dragon, [Brikki](characters/Brikki.png) the ratkin, [Akis](characters/Akis.png) the lamia  
 
-**Legends of the Deep Dark**: [Nibur](deep_dark/legends/Nibur.png) the minotaur, [Vyx](deep_dark/legends/Vyx.png) the scarred dark elf, Viessa the vampire  
+**Legends of the Deep Dark**: [Nibur](characters/Nibur.png) the minotaur  
 
-**Elven realm**: [Anneli](elven_realm/Anneli.png) the pervert, [Ciliren](elven_realm/Ciliren.png) the war criminal, [Usanya](elven_realm/Usanya.png) the princess yandere  
+**The Hole**: [Pippi](characters/Pippi.png) the mushroom farmer, [Gara](characters/Gara.png) the sassy guard, [Vyx](characters/Vyx.png) the scarred dark elf  
 
-**Demons**: [Sareli](demons/Sareli.png) the demon lord, [Medeah](demons/Medeah.png) the kind demon, [Malefica](demons/Malefica.png) the invading warrior princess, [Annera](demons/Annera.png) the twisted mother
+**Elven realm**: [Anneli](characters/Anneli.png) the pervert, [Ciliren](characters/Ciliren.png) the war criminal, [Usanya](characters/Usanya.png) the princess yandere  
+
+**Demons**: [Sareli](characters/Sareli.png) the demon lord, [Medeah](characters/Medeah.png) the kind demon, [Malefica](characters/Malefica.png) the invading warrior princess, [Annera](characters/Annera.png) the twisted mother, [Potato](characters/Potato.png) the smoll minion, [Kulya](characters/Kulya.png) the lonely ash demon, [Achy](characters/Achy.png) the headache  
+
+**Corrupted Heroes**: [Yana Bright](characters/Yana.png) the main heroine, Veenariel the saintess 
+
+**Eisenhart Principality**: [Reeba](characters/Reeba.png) the ambitious jester, Mara Eisenhart the inexperienced Sovereign
+
+**Combat adventure**: [Ignisia](characters/Ignisia.png) the dragon, [Hatru](characters/Hatru.png) the lich
 
 ### Powers beyond
 
-**Demons**: [Mezana](powers/Mezana.png) the possessing demon (self-conscience)
+**Demons**: [Mezana](characters/Mezana.png) the possessing demon (self-conscience)
 
 ## Chub Collaborations
 
@@ -64,7 +72,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 
 These cards may be tied to unusual for me setting, or to be too different from others to be grouped with them. 
 
-**Misc**: [Sarah](misc/Sarah.png) the bartender
+**Misc**: [Sarah](characters/Sarah.png) the bartender
 
 **The High War**: [Zentonya](high_war/Zentonya.png) the Soviet warmage.
 
@@ -72,7 +80,25 @@ These cards may be tied to unusual for me setting, or to be too different from o
 
 ## Archive
 
-These cards have been discarded: [archive](archive.html)
+These cards have been retired. They are unlikely to be reinstated or receive any updates, although, requests can be made.
 
-They are unlikely to be reinstated or receive any updates, although, requests can be made.
+**Gods**: [Morwen](characters/Morwen.png) the goddess of the end (introspection), [Setreya](characters/Setreya.png) the goddess of the dream (reflection), [Madar](characters/Madar.png) the goddess of creation (creation)
+
+**Kitsune Sisters**: [Poko](characters/phallic_sisters/Poko.png) the guardian of pine forest, Mariko the guardian of the verdant plains  
+
+**Misc**: [Dremara](characters/Dremara.png) the eldritch god, [Bed-chan](characters/Bed-chan.png), [Alba](characters/Alba.png) the mysterious stranger, [Magna](characters/Magna.png) the fiery priestess, [Marta](characters/Marta.png) the angelic nurse,  [Kabeko](characters/Kabeko.png) the wall
+
+**Monsters of the Deep Dark**: [Zynkara](characters/Zynkara.png) the spider, [Surge](characters/Surge.png) the shadow
+
+**Monsters of the Jungle**: [Karina](characters/Karina.png) the dryad empress, [Caramel](characters/Caramel.png) the vampiric slime
+
+**Northern Kingdom**: [Derya](characters/Derya.png) the visceral pirate
+
+**Royal Academy**: [Toti](characters/Toti.png) the bookish archmage, [Tulip](characters/Tulip.png) the vampire catgirl, [Izy](characters/Izy.png) the lustful warlock  
+
+**Sci-fi**: [Hoshi](sci-fi/Hoshi.png) the planetary killer  
+
+**Whimsical Kingdom**: [Mana](characters/Mana.png) the timid pink kitsune, [Sahti](characters/Sahti.png) the rock-star butterfly, [Momo-chan](characters/Momo-chan.png) the demon lord, [Piko](characters/Piko.png) the steward, [Tsunami](characters/Tsunami.png) the cat-girl surfer  
+
+
 
