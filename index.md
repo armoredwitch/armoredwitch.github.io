@@ -1,6 +1,6 @@
 # Yaethi
 
-My profiles: [Chub](https://chub.ai/users/Yaethi), [RisuRealm](https://realm.risuai.net/creator/yaethi)  
+My profiles: [RisuRealm](https://realm.risuai.net/?q=author%3Ayaethi), [Chub](https://chub.ai/users/Yaethi)
 
 Trimmed down cards can be found at [Janitor](https://janitorai.com/profiles/f17f69b6-35e9-4340-af27-c5bb9e51d4d1_profile-of-yaethi), [Venuschat](https://venuschat.ai/profiles/c32aeecf-f0d2-458b-a9bf-8ab16e4c4425_profile-of-yaethi) 
 
@@ -76,7 +76,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 
 These cards may be tied to unusual for me setting, or to be too different from others to be grouped with them. 
 
-**Misc**: [Sarah](characters/Sarah.png) the bartender
+**Misc**: [Sarah](characters/Sarah.png) the bartender, [Eleven](characters/Eleven.png) the dream-sheep
 
 **The High War**: [Zentonya](characters/Zentonya.png) the Soviet warmage.
 
