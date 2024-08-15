@@ -10,6 +10,7 @@ Below is a list of characters, loosely grouped by theme.
 
 ## Timeline
 
+2024-08-15: Added [Sam](characters/Sam.png)
 2024-08-15: Added [Eleven](characters/Eleven.png)
 2024-08-10: Added [Bip](characters/Bip.png)
 
@@ -77,7 +78,9 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 
 These cards may be tied to unusual for me setting, or to be too different from others to be grouped with them. 
 
-**Misc**: [Sarah](characters/Sarah.png) the bartender, [Eleven](characters/Eleven.png) the dream-sheep
+**Misc fantasy**: [Sarah](characters/Sarah.png) the bartender, [Eleven](characters/Eleven.png) the dream-sheep
+
+**Sci-fi**: [Sam](characters/Sam.png) the bladerunner
 
 **The High War**: [Zentonya](characters/Zentonya.png) the Soviet warmage.
 
