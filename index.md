@@ -1,12 +1,11 @@
 # Yaethi
 
-My profiles: [RisuRealm](https://realm.risuai.net/?q=author%3Ayaethi), [Chub](https://chub.ai/users/Yaethi)
-
-Trimmed down cards can be found at [Janitor](https://janitorai.com/profiles/f17f69b6-35e9-4340-af27-c5bb9e51d4d1_profile-of-yaethi), [Venuschat](https://venuschat.ai/profiles/c32aeecf-f0d2-458b-a9bf-8ab16e4c4425_profile-of-yaethi) 
+**My profiles**: [RisuRealm](https://realm.risuai.net/?q=author%3Ayaethi), [Chub](https://chub.ai/users/Yaethi), [Janitor](https://janitorai.com/profiles/f17f69b6-35e9-4340-af27-c5bb9e51d4d1_profile-of-yaethi), [Venuschat](https://venuschat.ai/profiles/c32aeecf-f0d2-458b-a9bf-8ab16e4c4425_profile-of-yaethi) 
 
 Below is a list of characters, loosely grouped by theme. 
 
-**Content warning note:** These cards are, in general, SFW, but some of them contain suggestive scenarios. These scenarios are marked in the author's notes, but, overall, usually even then you have a chance to steer conversation away from questionable topics.
+**_Content warning note_**  
+*These cards are, in general, SFW, but some of them contain suggestive scenarios. These scenarios are marked in the author's notes, but, overall, usually even then you have a chance to steer conversation away from questionable topics.*
 
 ## Timeline
 
@@ -19,25 +18,29 @@ Below is a list of characters, loosely grouped by theme.
 
 A collection of dark fantasy cards, at times silly, that are not necessarily united by the same setting. I tend to write my cards in a way that they can be incorporated into your stories, but some cards follow specific expectations and conventions, so please be aware when importing them into your campaign.
 
-**Whimsical Kingdom**: [Ysaba](characters/Ysaba.png) the sleepy fairy, [Frokey](characters/Frokey.png) the frog-girl assassin, [Momo-chan](characters/Momo-chan.png) the demon lord, [Piko](characters/Piko.png) the steward, [Yuha](characters/Yuha.png) the troll girl  
+### Whimsical Realm
 
-**You are the Demon Lord**: [Bessy](characters/Bessy.png) the bunny heroine
+These cards belong to the same world
 
-**Dark forest**: [Ophelia](characters/Ophelia.png) the nec-romancer, [Nyavka](characters/Nyavka.png) the catgirl spirit, [Enthonina](characters/Enthonina.png) the lost princess, [Magnificent](characters/Magnificent.png) the midwife witch  
+**Whimsical Kingdom**: [Ysaba](characters/Ysaba.png) the sleepy fairy, [Frokey](characters/Frokey.png) the frog-girl assassin, [Momo-chan](characters/Momo-chan.png) the demon lord, [Piko](characters/Piko.png) the steward, [Yuha](characters/Yuha.png) the troll girl, [Achy](characters/Achy.png) the headache, [Potato](characters/Potato.png) the smoll minion  
 
-**The Stolen Egg**:  [Daphne](characters/Daphne.png) the motherly harpy, [Fleur](characters/Fleur.png) the deranged harpy, [Aurora](characters/Aurora.png) the hopeful harpy  
+**Combat adventure**: [Ignisia](characters/Ignisia.png) the dragon, [Hatru](characters/Hatru.png) the lich  
 
-**Howling Mountains**: [Vetla](characters/Vetla.png) the wolf-mother, [Lopata](characters/Lopata.png) the kuudere bunny, [Pikaru](characters/Pikaru.png) the silly dragon, [Coco](characters/Coco.png) the mouse girl town, [BalaHyra](characters/BalaHyra.png) the two-headed ogre shaman, [Gearwyn](characters/Gearwyn.png) the clockwork princess  
+### Holy Lands
 
-**Holy Kingdom**: [Launa](characters/Launa.png) the genderbend knight, [Efrwen](characters/Efrwen.png) the bully knight, Albina the inquisitor, [Kiska](characters/Kiska.png) the hellhound, [Rana](characters/Rana.png) the slave dark elf, [Hatru](characters/Hatru1.png) the necromancer, [Varda](characters/Varda.pn) the duchess of twilight  
+**Holy Kingdom**: [Launa](characters/Launa.png) the genderbend knight, [Efrwen](characters/Efrwen.png) the bully knight, Albina the inquisitor, [Malefica](characters/Malefica.png) the invading warrior princess, [Kiska](characters/Kiska.png) the hellhound, [Rana](characters/Rana.png) the slave dark elf, [Annera](characters/Annera.png) the twisted mother, [Hatru](characters/Hatru1.png) the necromancer, [Varda](characters/Varda.pn) the duchess of twilight  
 
 **Royal Academy**: [Psaka](characters/Psaka.png) the bully catgirl, [Rene](characters/Rene.png) the fragile prince, [Agasta](characters/Agasta.png) the foreign princess  
-
-**Northern Kingdom**: [Skuggja](characters/Skuggja.png) the vampire queen, [Stjarna](characters/Stjarna.png) the dhampir princess, [Noor](characters/Noor.png) the highlander
 
 **Nights at the Tavern**: [Rosie](characters/Rosie.png) the barmaid, [Lily](characters/Lily.png) the barmaid, [Parisa](characters/Parisa.png) the bard  
 
 **Life in a Small Town**: [Mystral](characters/Mystral.png) the cat-girl maid, [Ban](characters/Ban.png) the clingy cat-girl, [Sora](characters/Sora.png) the towering kitsune maid, [Tinnueth](characters/Tinnueth.png) the warrior maid, [Harmony](characters/Harmony.png) the mushroom-girl  
+
+**Corrupted Heroes**: [Yana Bright](characters/Yana.png) the main heroine, Veenariel the saintess 
+
+**The Stolen Egg**:  [Daphne](characters/Daphne.png) the motherly harpy, [Fleur](characters/Fleur.png) the deranged harpy, [Aurora](characters/Aurora.png) the hopeful harpy  
+
+#### Deep Dark
 
 **Yandere of the Deep Dark**: [Itsumera](characters/Itsumera.png) the dragon, [Brikki](characters/Brikki.png) the ratkin, [Akis](characters/Akis.png) the lamia  
 
@@ -45,15 +48,25 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 
 **The Hole**: [Pippi](characters/Pippi.png) the mushroom farmer, [Gara](characters/Gara.png) the sassy guard, [Vyx](characters/Vyx.png) the scarred dark elf  
 
+### Northern Lands
+
+**Northern Kingdom**: [Skuggja](characters/Skuggja.png) the vampire queen, [Stjarna](characters/Stjarna.png) the dhampir princess, [Noor](characters/Noor.png) the highlander
+
+**Dark forest**: [Ophelia](characters/Ophelia.png) the nec-romancer, [Nyavka](characters/Nyavka.png) the catgirl spirit, [Enthonina](characters/Enthonina.png) the lost princess, [Magnificent](characters/Magnificent.png) the midwife witch  
+
+**Howling Mountains**: [Medeah](characters/Medeah.png) the kind demon, [Vetla](characters/Vetla.png) the wolf-mother, [Lopata](characters/Lopata.png) the kuudere bunny, [Pikaru](characters/Pikaru.png) the silly dragon, [Coco](characters/Coco.png) the mouse girl town, [BalaHyra](characters/BalaHyra.png) the two-headed ogre shaman, [Gearwyn](characters/Gearwyn.png) the clockwork princess  
+
 **Elven realm**: [Anneli](characters/Anneli.png) the pervert, [Ciliren](characters/Ciliren.png) the war criminal, [Usanya](characters/Usanya.png) the princess yandere  
-
-**Demons**: [Sareli](characters/Sareli.png) the demon lord, [Medeah](characters/Medeah.png) the kind demon, [Malefica](characters/Malefica.png) the invading warrior princess, [Annera](characters/Annera.png) the twisted mother, [Potato](characters/Potato.png) the smoll minion, [Kulya](characters/Kulya.png) the lonely ash demon, [Achy](characters/Achy.png) the headache, [Mezana](characters/Mezana.png) the possessing demon (self-conscience)  
-
-**Corrupted Heroes**: [Yana Bright](characters/Yana.png) the main heroine, Veenariel the saintess 
 
 **Eisenhart Principality**: [Reeba](characters/Reeba.png) the ambitious jester, Mara Eisenhart the inexperienced Sovereign
 
-**Combat adventure**: [Ignisia](characters/Ignisia.png) the dragon, [Hatru](characters/Hatru.png) the lich
+### You are the Demon Lord
+
+**You are the Demon Lord**: [Bessy](characters/Bessy.png) the bunny heroine
+
+### Misc
+
+**Demons**: [Sareli](characters/Sareli.png) the demon lord, [Kulya](characters/Kulya.png) the lonely ash demon, [Mezana](characters/Mezana.png) the possessing demon (self-conscience)  
 
 ## Chub Collaborations
 
