@@ -10,6 +10,7 @@ Below is a list of characters, loosely grouped by theme.
 
 ## Timeline
 
+2024-08-16: Added [Varda](characters/Varda.png)  
 2024-08-15: Added [Sam](characters/Sam.png)  
 2024-08-15: Added [Eleven](characters/Eleven.png)  
 2024-08-10: Added [Bip](characters/Bip.png)  
@@ -28,7 +29,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 
 **Howling Mountains**: [Vetla](characters/Vetla.png) the wolf-mother, [Lopata](characters/Lopata.png) the kuudere bunny, [Pikaru](characters/Pikaru.png) the silly dragon, [Coco](characters/Coco.png) the mouse girl town, [BalaHyra](characters/BalaHyra.png) the two-headed ogre shaman, [Gearwyn](characters/Gearwyn.png) the clockwork princess  
 
-**Holy Kingdom**: [Launa](characters/Launa.png) the genderbend knight, [Efrwen](characters/Efrwen.png) the bully knight, Albina the inquisitor, [Kiska](characters/Kiska.png) the hellhound, [Rana](characters/Rana.png) the slave dark elf, [Hatru](characters/Hatru1.png) the necromancer  
+**Holy Kingdom**: [Launa](characters/Launa.png) the genderbend knight, [Efrwen](characters/Efrwen.png) the bully knight, Albina the inquisitor, [Kiska](characters/Kiska.png) the hellhound, [Rana](characters/Rana.png) the slave dark elf, [Hatru](characters/Hatru1.png) the necromancer, [Varda](characters/Varda.pn) the duchess of twilight  
 
 **Royal Academy**: [Psaka](characters/Psaka.png) the bully catgirl, [Rene](characters/Rene.png) the fragile prince, [Agasta](characters/Agasta.png) the foreign princess  
 
@@ -46,17 +47,13 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 
 **Elven realm**: [Anneli](characters/Anneli.png) the pervert, [Ciliren](characters/Ciliren.png) the war criminal, [Usanya](characters/Usanya.png) the princess yandere  
 
-**Demons**: [Sareli](characters/Sareli.png) the demon lord, [Medeah](characters/Medeah.png) the kind demon, [Malefica](characters/Malefica.png) the invading warrior princess, [Annera](characters/Annera.png) the twisted mother, [Potato](characters/Potato.png) the smoll minion, [Kulya](characters/Kulya.png) the lonely ash demon, [Achy](characters/Achy.png) the headache  
+**Demons**: [Sareli](characters/Sareli.png) the demon lord, [Medeah](characters/Medeah.png) the kind demon, [Malefica](characters/Malefica.png) the invading warrior princess, [Annera](characters/Annera.png) the twisted mother, [Potato](characters/Potato.png) the smoll minion, [Kulya](characters/Kulya.png) the lonely ash demon, [Achy](characters/Achy.png) the headache, [Mezana](characters/Mezana.png) the possessing demon (self-conscience)  
 
 **Corrupted Heroes**: [Yana Bright](characters/Yana.png) the main heroine, Veenariel the saintess 
 
 **Eisenhart Principality**: [Reeba](characters/Reeba.png) the ambitious jester, Mara Eisenhart the inexperienced Sovereign
 
 **Combat adventure**: [Ignisia](characters/Ignisia.png) the dragon, [Hatru](characters/Hatru.png) the lich
-
-### Powers beyond
-
-**Demons**: [Mezana](characters/Mezana.png) the possessing demon (self-conscience)
 
 ## Chub Collaborations
 

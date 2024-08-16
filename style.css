@@ -8,8 +8,12 @@ article {
   padding: 20px;
   font-family: Sans;
   background-color: #222; /* dark gray */
-  color: #ccc; /* bright gray */
+  color: #bbb; /* bright gray */
   text-align: justify;
+}
+
+article strong {
+    color: #ddd;
 }
 
 a {
@@ -22,7 +26,8 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #fff; /* white */
+    color: #fff; /* white */
+    text-align: center;        
 }
 
 code {
