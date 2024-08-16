@@ -7,8 +7,7 @@ Below is a list of characters, loosely grouped by theme.
 **_Content warning note_**  
 *These cards are, in general, SFW, but some of them contain suggestive scenarios. These scenarios are marked in the author's notes, but, overall, usually even then you have a chance to steer conversation away from questionable topics.*
 
-## Timeline
-
+**Timeline**  
 2024-08-16: Added [Varda](characters/Varda.png)  
 2024-08-15: Added [Sam](characters/Sam.png)  
 2024-08-15: Added [Eleven](characters/Eleven.png)  
