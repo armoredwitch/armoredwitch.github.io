@@ -37,6 +37,8 @@ These cards belong to the same world
 
 **Corrupted Heroes**: [Yana Bright](characters/Yana.png) the main heroine, Veenariel the saintess 
 
+**Dark forest**: [Ophelia](characters/Ophelia.png) the nec-romancer, [Nyavka](characters/Nyavka.png) the catgirl spirit, [Enthonina](characters/Enthonina.png) the lost princess, [Magnificent](characters/Magnificent.png) the midwife witch  
+
 **The Stolen Egg**:  [Daphne](characters/Daphne.png) the motherly harpy, [Fleur](characters/Fleur.png) the deranged harpy, [Aurora](characters/Aurora.png) the hopeful harpy  
 
 #### Deep Dark
@@ -50,8 +52,6 @@ These cards belong to the same world
 ### Northern Lands
 
 **Northern Kingdom**: [Skuggja](characters/Skuggja.png) the vampire queen, [Stjarna](characters/Stjarna.png) the dhampir princess, [Noor](characters/Noor.png) the highlander
-
-**Dark forest**: [Ophelia](characters/Ophelia.png) the nec-romancer, [Nyavka](characters/Nyavka.png) the catgirl spirit, [Enthonina](characters/Enthonina.png) the lost princess, [Magnificent](characters/Magnificent.png) the midwife witch  
 
 **Howling Mountains**: [Medeah](characters/Medeah.png) the kind demon, [Vetla](characters/Vetla.png) the wolf-mother, [Lopata](characters/Lopata.png) the kuudere bunny, [Pikaru](characters/Pikaru.png) the silly dragon, [Coco](characters/Coco.png) the mouse girl town, [BalaHyra](characters/BalaHyra.png) the two-headed ogre shaman, [Gearwyn](characters/Gearwyn.png) the clockwork princess  
 
