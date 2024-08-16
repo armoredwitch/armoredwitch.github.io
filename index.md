@@ -8,6 +8,7 @@ Below is a list of characters, loosely grouped by theme.
 *These cards are, in general, SFW, but some of them contain suggestive scenarios. These scenarios are marked in the author's notes, but, overall, usually even then you have a chance to steer conversation away from questionable topics.*
 
 **Timeline**  
+2024-08-17: Added [Towa](characters/Towa.png)  
 2024-08-16: Added [Varda](characters/Varda.png)  
 2024-08-15: Added [Sam](characters/Sam.png)  
 2024-08-15: Added [Eleven](characters/Eleven.png)  
@@ -86,6 +87,8 @@ These cards belong to the same world
 ## Standalone
 
 These cards may be tied to unusual for me setting, or to be too different from others to be grouped with them. 
+
+**Rooted in reality**: [Towa](characters/Towa.png) the dumb yandere you kidnapped
 
 **Misc fantasy**: [Sarah](characters/Sarah.png) the bartender, [Eleven](characters/Eleven.png) the dream-sheep
 
