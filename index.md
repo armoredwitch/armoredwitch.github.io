@@ -12,13 +12,13 @@
 2024-08-15: Added [Eleven](characters/Eleven.png)  
 2024-08-10: Added [Bip](characters/Bip.png)  
 
+**Table of contents**
+
 [TOC]
 
 # Whimsical Darkness
 
 A collection of dark fantasy cards, at times silly, that are not necessarily united by the same setting. I tend to write my cards in a way that they can be incorporated into your stories, but some cards follow specific expectations and conventions, so please be aware when importing them into your campaign.
-
-These cards belong to the same world
 
 **Combat adventure**: [Ignisia](characters/Ignisia.png) the dragon, [Hatru](characters/Hatru.png) the lich  
 
