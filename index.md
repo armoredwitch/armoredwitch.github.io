@@ -2,11 +2,13 @@
 
 **My profiles**: [RisuRealm](https://realm.risuai.net/?q=author%3Ayaethi), [Chub](https://chub.ai/users/Yaethi), [Janitor](https://janitorai.com/profiles/f17f69b6-35e9-4340-af27-c5bb9e51d4d1_profile-of-yaethi), [Venuschat](https://venuschat.ai/profiles/c32aeecf-f0d2-458b-a9bf-8ab16e4c4425_profile-of-yaethi) 
 
+**Purple Ravens - Collabs**: [Discord link](https://discord.gg/B6BjEvzN)
+
 **_Content warning note_**  
 *These cards are, in general, SFW, but some of them contain suggestive scenarios. These scenarios are marked in the author's notes, but, overall, usually even then you have a chance to steer conversation away from questionable topics.*
 
 **Timeline**  
-2024-08-17: Added [Helka](characters/Helka.png) and [Gaera](characters/Gaera.png)  
+2024-08-19: Added [Helka](characters/Helka.png) and [Gaera](characters/Gaera.png)  
 2024-08-17: Added [Towa](characters/Towa.png)  
 2024-08-16: Added [Varda](characters/Varda.png)  
 2024-08-15: Added [Sam](characters/Sam.png)  
