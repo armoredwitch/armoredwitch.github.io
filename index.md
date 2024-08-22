@@ -8,11 +8,11 @@
 *These cards are, in general, SFW, but some of them contain suggestive scenarios. These scenarios are marked in the author's notes, but, overall, usually even then you have a chance to steer conversation away from questionable topics.*
 
 **Timeline**  
+2024-08-22: Added [Jade](characters/Jade.png) and [Aisling](characters/Aisling.png)  
 2024-08-19: Added [Helka](characters/Helka.png) and [Gaera](characters/Gaera.png)  
 2024-08-17: Added [Towa](characters/Towa.png)  
 2024-08-16: Added [Varda](characters/Varda.png)  
 2024-08-15: Added [Sam](characters/Sam.png)  
-2024-08-15: Added [Eleven](characters/Eleven.png)  
 
 **Table of contents**
 
