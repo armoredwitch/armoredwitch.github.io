@@ -90,11 +90,13 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 
 **Tiny Homecoming**: [Bip](https://chub.ai/characters/Yaethi/bip-582db59365d4) the mouse knight. Her friends: [Edith](https://chub.ai/characters/wildwill95/edith-0a80a213185f) the shy bunny monk (by [William](https://www.chub.ai/users/wildwill95)), [Wheatbisquit](https://chub.ai/characters/CuriousKnight/wheatbiscuit-c6c753cbeb20) the traumatized gnome (by [CuriousKnight](https://chub.ai/characters/CuriousKnight/wheatbiscuit-c6c753cbeb20))  
 
+**Late Girls**: [Aisling](https://chub.ai/characters/Yaethi/aisling-b94ff04d726d) the panty thief. Her acquaintances: pending...
+
 # Standalone
 
 These cards may be tied to unusual for me setting, or to be too different from others to be grouped with them. 
 
-**Rooted in reality**: [Towa](characters/Towa.png) the dumb yandere you kidnapped
+**Rooted in reality**: [Towa](characters/Towa.png) the dumb yandere you kidnapped, [Jade](https://chub.ai/characters/Yaethi/jade-826d9fc332e8) the lovestruck triad boss
 
 **Misc fantasy**: [Sarah](characters/Sarah.png) the bartender, [Eleven](characters/Eleven.png) the dream-sheep, [Dremara](characters/Dremara.png) the eldritch god, [Bed-chan](characters/Bed-chan.png), [Alba](characters/Alba.png) the mysterious stranger, [Magna](characters/Magna.png) the fiery priestess, [Marta](characters/Marta.png) the angelic nurse,  [Kabeko](characters/Kabeko.png) the wall  
 
