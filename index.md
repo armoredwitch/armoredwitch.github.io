@@ -110,7 +110,7 @@ These cards have been retired. They are unlikely to be reinstated or receive any
 
 **Gods**: [Morwen](characters/Morwen.png) the goddess of the end (introspection), [Setreya](characters/Setreya.png) the goddess of the dream (reflection), [Madar](characters/Madar.png) the goddess of creation (creation)
 
-**Kitsune Sisters**: [Poko](characters/phallic_sisters/Poko.png) the guardian of pine forest, Mariko the guardian of the verdant plains  
+**Kitsune Sisters**: [Poko](characters/Poko.png) the guardian of pine forest, Mariko the guardian of the verdant plains  
 
 **Monsters of the Jungle**: [Karina](characters/Karina.png) the dryad empress, [Caramel](characters/Caramel.png) the vampiric slime
 
