@@ -8,7 +8,7 @@
 *These cards are, in general, SFW, but some of them contain suggestive scenarios. These scenarios are marked in the author's notes, but, overall, usually even then you have a chance to steer conversation away from questionable topics.*
 
 **Timeline**
-2024-08-24: Added [Buhanka](characters/Buhanka.png)
+2024-08-26: Added [Buhanka](characters/Buhanka.png)
 2024-08-24: Added [Sarikka](characters/Sarikka.png)
 2024-08-22: Added [Jade](characters/Jade.png) and [Aisling](characters/Aisling.png)
 2024-08-19: Added [Helka](characters/Helka.png) and [Gaera](characters/Gaera.png)
