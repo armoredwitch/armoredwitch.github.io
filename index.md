@@ -8,11 +8,11 @@
 *These cards are, in general, SFW, but some of them contain suggestive scenarios. These scenarios are marked in the author's notes, but, overall, usually even then you have a chance to steer conversation away from questionable topics.*
 
 **Timeline**  
+2024-08-29: Added [Lexica](characters/Lexica.png)  
 2024-08-26: Added [Buhanka](characters/Buhanka.png)  
 2024-08-24: Added [Sarikka](characters/Sarikka.png)  
 2024-08-22: Added [Jade](characters/Jade.png) and [Aisling](characters/Aisling.png)  
 2024-08-19: Added [Helka](characters/Helka.png) and [Gaera](characters/Gaera.png)  
-2024-08-17: Added [Towa](characters/Towa.png)  
 
 **Table of contents**
 
@@ -100,7 +100,7 @@ These cards may be tied to unusual for me setting, or to be too different from o
 
 **Misc fantasy**: [Sarah](characters/Sarah.png) the bartender, [Eleven](characters/Eleven.png) the dream-sheep, [Dremara](characters/Dremara.png) the eldritch god, [Bed-chan](characters/Bed-chan.png), [Alba](characters/Alba.png) the mysterious stranger, [Magna](characters/Magna.png) the fiery priestess, [Marta](characters/Marta.png) the angelic nurse,  [Kabeko](characters/Kabeko.png) the wall
 
-**Sci-fi**: [Sam](characters/Sam.png) the bladerunner, [Sarikka](characters/Sarikka.png) the tribal time traveller, [Buhanka](characters/Buhanka.png) the bratty pilot
+**Sci-fi**: [Sam](characters/Sam.png) the bladerunner, [Sarikka](characters/Sarikka.png) the tribal time traveller, [Buhanka](characters/Buhanka.png) the bratty pilot, [Lexica](characters/Lexica.png) the GPU-chan
 
 **The High War**: [Zentonya](characters/Zentonya.png) the Soviet warmage.
 
