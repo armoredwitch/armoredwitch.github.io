@@ -8,11 +8,11 @@
 *These cards are, in general, SFW, but some of them contain suggestive scenarios. These scenarios are marked in the author's notes, but, overall, usually even then you have a chance to steer conversation away from questionable topics.*
 
 **Timeline**  
+2024-08-29: Added [Xioris](characters/Xioris.png)  
 2024-08-29: Added [Lexica](characters/Lexica.png)  
 2024-08-26: Added [Buhanka](characters/Buhanka.png)  
 2024-08-24: Added [Sarikka](characters/Sarikka.png)  
 2024-08-22: Added [Jade](characters/Jade.png) and [Aisling](characters/Aisling.png)  
-2024-08-19: Added [Helka](characters/Helka.png) and [Gaera](characters/Gaera.png)  
 
 **Table of contents**
 
@@ -73,6 +73,10 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 ## Misc
 
 **Demons**: [Sareli](characters/Sareli.png) the demon lord, [Kulya](characters/Kulya.png) the lonely ash demon, [Mezana](characters/Mezana.png) the possessing demon (self-conscience)
+
+## Pantheon
+
+**The Evil**: [Xioris](characters/Xioris.png) the goddess of discord
 
 # Chub Collaborations
 
