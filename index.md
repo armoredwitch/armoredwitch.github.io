@@ -8,6 +8,7 @@
 *These cards are, in general, SFW, but some of them contain suggestive scenarios. These scenarios are marked in the author's notes, but, overall, usually even then you have a chance to steer conversation away from questionable topics.*
 
 **Timeline**  
+2024-09-01: Added [Yana](characters/Yana.png) and [Veenariel](characters/Veenariel.png)  
 2024-09-01: Added [Sara](characters/Sara.png)  
 2024-08-29: Added [Xioris](characters/Xioris.png)  
 2024-08-29: Added [Lexica](characters/Lexica.png)  
@@ -39,7 +40,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 
 **Life in a Small Town**: [Mystral](characters/Mystral.png) the cat-girl maid, [Ban](characters/Ban.png) the clingy cat-girl, [Sora](characters/Sora.png) the towering kitsune maid, [Tinnueth](characters/Tinnueth.png) the warrior maid, [Harmony](characters/Harmony.png) the mushroom-girl
 
-**Corrupted Heroes**: [Yana Bright](characters/Yana.png) the main heroine, Veenariel the saintess
+**Corrupted Heroes**: [Yana Bright](characters/Yana.png) the main heroine, [Veenariel](characters/Veenariel.png) the saintess
 
 **Dark forest**: [Ophelia](characters/Ophelia.png) the nec-romancer, [Nyavka](characters/Nyavka.png) the catgirl spirit, [Enthonina](characters/Enthonina.png) the lost princess, [Magnificent](characters/Magnificent.png) the midwife witch
 
