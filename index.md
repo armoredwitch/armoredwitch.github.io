@@ -8,19 +8,17 @@
 *These cards are, in general, SFW, but some of them contain suggestive scenarios. These scenarios are marked in the author's notes, but, overall, usually even then you have a chance to steer conversation away from questionable topics.*
 
 **Timeline**  
+2024-09-01: Added [Kitty](characters/Kitty.png)  
 2024-09-01: Added [Yana](characters/Yana.png) and [Veenariel](characters/Veenariel.png)  
 2024-09-01: Added [Sara](characters/Sara.png)  
 2024-08-29: Added [Xioris](characters/Xioris.png)  
 2024-08-29: Added [Lexica](characters/Lexica.png)  
-2024-08-26: Added [Buhanka](characters/Buhanka.png)  
-2024-08-24: Added [Sarikka](characters/Sarikka.png)  
-2024-08-22: Added [Jade](characters/Jade.png) and [Aisling](characters/Aisling.png)  
 
 **Table of contents**
 
 [TOC]
 
-# Whimsical Darkness
+# Mystery
 
 A collection of dark fantasy cards, at times silly, that are not necessarily united by the same setting. I tend to write my cards in a way that they can be incorporated into your stories, but some cards follow specific expectations and conventions, so please be aware when importing them into your campaign.
 
@@ -75,6 +73,8 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 ## Misc
 
 **Demons**: [Sareli](characters/Sareli.png) the demon lord, [Kulya](characters/Kulya.png) the lonely ash demon, [Mezana](characters/Mezana.png) the possessing demon (self-conscience)
+
+**Pantheon** [Kitty](characters/Kitty.png) the MC goddess
 
 **Voided**: [Xioris](characters/Xioris.png) the goddess of discord, [Xioris](characters/Xioris.png) the explorer of the eldritch
 
