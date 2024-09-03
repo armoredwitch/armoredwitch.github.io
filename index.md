@@ -8,7 +8,7 @@
 *These cards are, in general, SFW, but some of them contain suggestive scenarios. These scenarios are marked in the author's notes, but, overall, usually even then you have a chance to steer conversation away from questionable topics.*
 
 **Timeline**  
-2024-09-01: Added [Kitty](characters/Kitty.png)  
+2024-09-02: Added [Kitty](characters/Kitty.png)  
 2024-09-01: Added [Yana](characters/Yana.png) and [Veenariel](characters/Veenariel.png)  
 2024-09-01: Added [Sara](characters/Sara.png)  
 2024-08-29: Added [Xioris](characters/Xioris.png)  
@@ -74,7 +74,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 
 **Demons**: [Sareli](characters/Sareli.png) the demon lord, [Kulya](characters/Kulya.png) the lonely ash demon, [Mezana](characters/Mezana.png) the possessing demon (self-conscience)
 
-**Pantheon** [Kitty](characters/Kitty.png) the MC goddess
+**Pantheon**: [Kitty](characters/Kitty.png) the MC goddess
 
 **Voided**: [Xioris](characters/Xioris.png) the goddess of discord, [Xioris](characters/Xioris.png) the explorer of the eldritch
 
@@ -95,6 +95,8 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 **Tiny Homecoming**: [Bip](https://chub.ai/characters/Yaethi/bip-582db59365d4) the mouse knight. Her friends: [Edith](https://chub.ai/characters/wildwill95/edith-0a80a213185f) the shy bunny monk (by [William](https://www.chub.ai/users/wildwill95)), [Wheatbisquit](https://chub.ai/characters/CuriousKnight/wheatbiscuit-c6c753cbeb20) the traumatized gnome (by [CuriousKnight](https://chub.ai/characters/CuriousKnight/wheatbiscuit-c6c753cbeb20))
 
 **Late Girls**: [Aisling](https://chub.ai/characters/Yaethi/aisling-b94ff04d726d) the panty thief. Her late friends: [Kara](https://chub.ai/characters/TheHolyDoggo/kara-3349bcca45cb) the loving teacher (by [TheHolyDoggo](https://chub.ai/users/TheHolyDoggo)), [Beurge](https://chub.ai/characters/shimipan/beurge-magical-rival-doesn-t-know-how-to-rival-bab25af30cf2) the horrible rival (by [Shimipan](https://chub.ai/users/shimipan)), [Ansa](https://chub.ai/characters/CuriousKnight/ansa-trapped-0b46d9336d2a) the lonely portrait ()by [CuriousKnight](https://chub.ai/users/CuriousKnight))
+
+**Superfeud**: [Regina](https://chub.ai/characters/Yaethi/regina-b0e481903439) the biotech CEO. Her rival: [Alex](https://chub.ai/characters/wildwill95/alex-bde42f16363a) the mercenary (by [William](https://chub.ai/users/wildwill95)).
 
 # Standalone
 
