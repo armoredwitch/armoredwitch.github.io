@@ -8,11 +8,11 @@
 *These cards are, in general, SFW, but some of them contain suggestive scenarios. These scenarios are marked in the author's notes, but, overall, usually even then you have a chance to steer conversation away from questionable topics.*
 
 **Timeline**  
+2024-09-06: Added [Regina](characters/Emmelin.png)  
 2024-09-03: Added [Regina](characters/Regina.png)  
 2024-09-02: Added [Kitty](characters/Kitty.png)  
 2024-09-01: Added [Yana](characters/Yana.png) and [Veenariel](characters/Veenariel.png)  
 2024-09-01: Added [Sara](characters/Sara.png)  
-2024-08-29: Added [Xioris](characters/Xioris.png)  
 
 **Table of contents**
 
@@ -30,7 +30,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 
 ## Holy Lands
 
-**Holy Kingdom**: [Launa](characters/Launa.png) the genderbend knight, [Efrwen](characters/Efrwen.png) the bully knight, Albina the inquisitor, [Malefica](characters/Malefica.png) the invading warrior princess, [Kiska](characters/Kiska.png) the hellhound, [Rana](characters/Rana.png) the slave dark elf, [Annera](characters/Annera.png) the twisted mother, [Hatru](characters/Hatru1.png) the necromancer, [Varda](characters/Varda.pn) the duchess of twilight
+**Holy Kingdom**: [Launa](characters/Launa.png) the genderbend knight, [Efrwen](characters/Efrwen.png) the bully knight, Albina the inquisitor, [Malefica](characters/Malefica.png) the invading warrior princess, [Kiska](characters/Kiska.png) the hellhound, [Rana](characters/Rana.png) the slave dark elf, [Annera](characters/Annera.png) the twisted mother, [Hatru](characters/Hatru1.png) the necromancer, [Varda](characters/Varda.pn) the duchess of twilight, [Emmelin](characters/Emmelin.png) the groomer maid  
 
 **Royal Academy**: [Toti](characters/Toti.png) the bookish archmage, [Tulip](characters/Tulip.png) the vampire catgirl, [Psaka](characters/Psaka.png) the bully catgirl, [Rene](characters/Rene.png) the fragile prince, [Agasta](characters/Agasta.png) the foreign princess
 
