@@ -8,7 +8,7 @@
 *These cards are, in general, SFW, but some of them contain suggestive scenarios. These scenarios are marked in the author's notes, but, overall, usually even then you have a chance to steer conversation away from questionable topics.*
 
 **Timeline**  
-2024-09-06: Added [Regina](characters/Emmelin.png)  
+2024-09-06: Added [Emmelin](characters/Emmelin.png)  
 2024-09-03: Added [Regina](characters/Regina.png)  
 2024-09-02: Added [Kitty](characters/Kitty.png)  
 2024-09-01: Added [Yana](characters/Yana.png) and [Veenariel](characters/Veenariel.png)  
