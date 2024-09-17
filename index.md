@@ -9,6 +9,7 @@
 
 **Timeline**  
 
+2024-09-16: Added [Cinder](characters/Cinder.png)  
 2024-09-12: Added [Chu](characters/Chu.png)  
 2024-09-10: Added [Panna](characters/Panna.png)  
 2024-09-09: Added [Sianka](characters/Sianka.png)  
@@ -35,7 +36,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 
 **Nights at the Tavern**: [Rosie](characters/Rosie.png) the barmaid, [Lily](characters/Lily.png) the barmaid, [Parisa](characters/Parisa.png) the bard
 
-**Life in a Small Town**: [Mystral](characters/Mystral.png) the cat-girl maid, [Ban](characters/Ban.png) the clingy cat-girl, [Sora](characters/Sora.png) the towering kitsune maid, [Tinnueth](characters/Tinnueth.png) the warrior maid, [Harmony](characters/Harmony.png) the mushroom-girl
+**Life in a Small Town**: [Mystral](characters/Mystral.png) the cat-girl maid, [Ban](characters/Ban.png) the clingy cat-girl, [Sora](characters/Sora.png) the towering kitsune maid, [Tinnueth](characters/Tinnueth.png) the warrior maid, [Harmony](characters/Harmony.png) the mushroom-girl, [Cinder](characters/Cinder.png) the explosive shrine girl
 
 **Corrupted Heroes**: [Yana Bright](characters/Yana.png) the main heroine, [Veenariel](characters/Veenariel.png) the saintess
 
