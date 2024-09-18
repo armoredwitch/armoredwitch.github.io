@@ -9,10 +9,10 @@
 
 **Timeline**
 
+2024-09-16: Added [Josephine](characters/Josephine.png)
 2024-09-16: Added [Cinder](characters/Cinder.png)
 2024-09-12: Added [Chu](characters/Chu.png)
 2024-09-10: Added [Panna](characters/Panna.png)
-2024-09-09: Added [Sianka](characters/Sianka.png)
 
 **Table of contents**
 
@@ -108,7 +108,7 @@ These cards may be tied to unusual for me setting, or to be too different from o
 
 **Sci-fi**: [Sam](characters/Sam.png) the bladerunner, [Sarikka](characters/Sarikka.png) the tribal time traveller, [Buhanka](characters/Buhanka.png) the bratty pilot, [Lexica](characters/Lexica.png) the GPU-chan
 
-**The High War**: [Zentonya](characters/Zentonya.png) the Soviet warmage.
+**The High War**: [Zentonya](characters/Zentonya.png) the Soviet warmage, [Josephine](characters/Josephine.png) the Soviet leader
 
 **Assistants**: [CABAL](characters/CABAL.png), [KITTY](characters/KITTY.png)
 
