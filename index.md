@@ -9,10 +9,10 @@
 
 **Timeline**
 
-2024-09-16: Added [Josephine](characters/Josephine.png)
-2024-09-16: Added [Cinder](characters/Cinder.png)
-2024-09-12: Added [Chu](characters/Chu.png)
-2024-09-10: Added [Panna](characters/Panna.png)
+2024-09-16: Added [Josephine](characters/Josephine.png)<br/>
+2024-09-16: Added [Cinder](characters/Cinder.png)<br/>
+2024-09-12: Added [Chu](characters/Chu.png)<br/>
+2024-09-10: Added [Panna](characters/Panna.png)<br/>
 
 **Table of contents**
 
@@ -97,6 +97,8 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 **Late Girls**: [Aisling](https://chub.ai/characters/Yaethi/aisling-b94ff04d726d) the panty thief. Her late friends: [Kara](https://chub.ai/characters/TheHolyDoggo/kara-3349bcca45cb) the loving teacher (by [TheHolyDoggo](https://chub.ai/users/TheHolyDoggo)), [Beurge](https://chub.ai/characters/shimipan/beurge-magical-rival-doesn-t-know-how-to-rival-bab25af30cf2) the horrible rival (by [Shimipan](https://chub.ai/users/shimipan)), [Ansa](https://chub.ai/characters/CuriousKnight/ansa-trapped-0b46d9336d2a) the lonely portrait ()by [CuriousKnight](https://chub.ai/users/CuriousKnight))
 
 **Superfeud**: [Regina](https://chub.ai/characters/Yaethi/regina-b0e481903439) the biotech CEO. Her rival: [Alex](https://chub.ai/characters/wildwill95/alex-bde42f16363a) the mercenary (by [William](https://chub.ai/users/wildwill95)).
+
+**Swamp Dwellers**: [Panna](https://chub.ai/characters/Yaethi/panna-0a0699f2ae7c) the kikimora. Her co-dwellers: [Veliara](https://chub.ai/characters/TuGunJr/veliara-bolar-shield-of-ra-ier-a4db28441f48) and [Melivari](https://chub.ai/characters/TuGunJr/melivari-bolar-mercy-of-ra-ier-c36017a39ec1) the hunted twins (by [TuGunJr](https://chub.ai/users/TuGunJr)), [Octavia](https://chub.ai/characters/KrowleyK/octavia-swamp-dwellers-collab-96c56d8056f4), the squishiest octopus (by [Krowley](https://chub.ai/users/KrowleyK)), [Scarlett](https://chub.ai/characters/TheHolyDoggo/scarlett-c322ac061e9e) the isekaid manager (by [TheHolyDoggo](https://chub.ai/users/TheHolyDoggo)), someone by Curious Knight, pending.
 
 # Standalone
 
