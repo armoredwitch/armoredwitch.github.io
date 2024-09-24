@@ -6,7 +6,7 @@
 
 **_Content warning note_**
 *These cards are, in general, SFW, but some of them contain suggestive scenarios. These scenarios are marked in the author's notes, but, overall, usually even then you have a chance to steer conversation away from questionable topics.*
-
+Ja
 **Timeline**
 
 2024-09-22: Added [Song](characters/Song.png)<br/>
