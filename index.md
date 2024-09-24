@@ -9,6 +9,7 @@
 Ja
 **Timeline**
 
+2024-09-23: Added [Song](characters/Alia.png)<br/>
 2024-09-22: Added [Song](characters/Song.png)<br/>
 2024-09-21: Added [Jrri](characters/Jrri.png)<br/>
 2024-09-19: Added [Saaris](characters/Saaris.png)<br/>
@@ -74,7 +75,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 [Skuggja](characters/Skuggja.png) the vampire queen, [Stjarna](characters/Stjarna.png) the dhampir princess, [Noor](characters/Noor.png) the highlander, [Derya](characters/Derya.png) the visceral pirate
 
 **Howling Mountains**<br/>
-[Medeah](characters/Medeah.png) the kind demon, [Vetla](characters/Vetla.png) the wolf-mother, [Lopata](characters/Lopata.png) the kuudere bunny, [Pikaru](characters/Pikaru.png) the silly dragon, [Coco](characters/Coco.png) the mouse girl town, [BalaHyra](characters/BalaHyra.png) the two-headed ogre shaman, [Gearwyn](characters/Gearwyn.png) the clockwork princess
+[Medeah](characters/Medeah.png) the kind demon, [Vetla](characters/Vetla.png) the wolf-mother, [Lopata](characters/Lopata.png) the kuudere bunny, [Pikaru](characters/Pikaru.png) the silly dragon, [Coco](characters/Coco.png) the mouse girl town, [BalaHyra](characters/BalaHyra.png) the two-headed ogre shaman, [Gearwyn](characters/Gearwyn.png) the clockwork princess, [Alia](characters/Alia.png) the ice queen
 
 **Elven realm**<br/>
 [Anneli](characters/Anneli.png) the pervert, [Ciliren](characters/Ciliren.png) the war criminal, [Usanya](characters/Usanya.png) the princess yandere
