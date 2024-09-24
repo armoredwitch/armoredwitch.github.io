@@ -9,7 +9,8 @@
 Ja
 **Timeline**
 
-2024-09-23: Added [Song](characters/Alia.png)<br/>
+2024-09-24: Added [Claws](characters/Claws.png)<br/>
+2024-09-23: Added [Alia](characters/Alia.png)<br/>
 2024-09-22: Added [Song](characters/Song.png)<br/>
 2024-09-21: Added [Jrri](characters/Jrri.png)<br/>
 2024-09-19: Added [Saaris](characters/Saaris.png)<br/>
@@ -144,6 +145,9 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 # Standalone
 
 These cards may be tied to unusual for me setting, or to be too different from others to be grouped with them.
+
+**The Office**<br/>
+[Claws](characters/Claws.png) the angery meownager
 
 **Rooted in reality**<br/>
 [Towa](characters/Towa.png) the dumb yandere you kidnapped, [Jade](https://chub.ai/characters/Yaethi/jade-826d9fc332e8) the lovestruck triad boss
