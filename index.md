@@ -9,13 +9,11 @@
 Ja
 **Timeline**
 
+2024-10-01: Added [Skuggja](characters/Skuggja.png)<br/>
+2024-09-30: Added [Mariko](characters/Mariko.png)<br/>
 2024-09-24: Added [Claws](characters/Claws.png)<br/>
 2024-09-23: Added [Alia](characters/Alia.png)<br/>
 2024-09-22: Added [Song](characters/Song.png)<br/>
-2024-09-21: Added [Jrri](characters/Jrri.png)<br/>
-2024-09-19: Added [Saaris](characters/Saaris.png)<br/>
-2024-09-16: Added [Josephine](characters/Josephine.png)<br/>
-2024-09-16: Added [Cinder](characters/Cinder.png)<br/>
 
 **Table of contents**
 
@@ -161,6 +159,9 @@ These cards may be tied to unusual for me setting, or to be too different from o
 **The High War**<br/>
 [Zentonya](characters/Zentonya.png) the Soviet warmage, [Josephine](characters/Josephine.png) the Soviet leader
 
+**Kitsune Sisters**<br/>
+[Poko](characters/Poko.png) the guardian of pine forest, [Mariko](characters/Mariko.png) the guardian of verdant plains
+
 **Assistants**<br/>
 [CABAL](characters/CABAL.png), [KITTY](characters/KITTY.png)
 
@@ -170,9 +171,6 @@ These cards have been retired. They are unlikely to be reinstated or receive any
 
 **Gods**<br/>
 [Morwen](characters/Morwen.png) the goddess of the end (introspection), [Setreya](characters/Setreya.png) the goddess of the dream (reflection), [Madar](characters/Madar.png) the goddess of creation (creation)
-
-**Kitsune Sisters**<br/>
-[Poko](characters/Poko.png) the guardian of pine forest, Mariko the guardian of the verdant plains
 
 **Monsters of the Jungle**<br/>
 [Karina](characters/Karina.png) the dryad empress, [Caramel](characters/Caramel.png) the vampiric slime
