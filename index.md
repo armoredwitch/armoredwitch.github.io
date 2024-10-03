@@ -9,11 +9,9 @@
 Ja
 **Timeline**
 
-2024-10-01: Added [Skuggja](characters/Skuggja.png)<br/>
+2024-10-04: Added [Stjarna](characters/Stjarna.png)<br/>
+2024-10-04: Added [Skuggja](characters/Skuggja.png)<br/>
 2024-09-30: Added [Mariko](characters/Mariko.png)<br/>
-2024-09-24: Added [Claws](characters/Claws.png)<br/>
-2024-09-23: Added [Alia](characters/Alia.png)<br/>
-2024-09-22: Added [Song](characters/Song.png)<br/>
 
 **Table of contents**
 
