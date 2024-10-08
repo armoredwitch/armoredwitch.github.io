@@ -1,17 +1,17 @@
 <center><strong style="font-size: 200%;">Yaethi</strong></center>
 
-**My profiles**: [RisuRealm](https://realm.risuai.net/?q=author%3Ayaethi), [Chub](https://chub.ai/users/Yaethi), [Janitor](https://janitorai.com/profiles/f17f69b6-35e9-4340-af27-c5bb9e51d4d1_profile-of-yaethi), [Venuschat](https://venuschat.ai/profiles/c32aeecf-f0d2-458b-a9bf-8ab16e4c4425_profile-of-yaethi)
+**My profiles**: [Chub](https://chub.ai/users/Yaethi), [Janitor](https://janitorai.com/profiles/f17f69b6-35e9-4340-af27-c5bb9e51d4d1_profile-of-yaethi)
 
 **Purple Ravens - Collabs**: [Discord link](https://discord.gg/B6BjEvzN)
 
 **_Content warning note_**
 *These cards are, in general, SFW, but some of them contain suggestive scenarios. These scenarios are marked in the author's notes, but, overall, usually even then you have a chance to steer conversation away from questionable topics.*
 Ja
-**Timeline**
 
+**Timeline**
+2024-10-07: Added [Yoru](characters/Yoru.png)<br/>
+2024-10-06: Added [Sorri](characters/Sorri.png)<br/>
 2024-10-04: Added [Stjarna](characters/Stjarna.png)<br/>
-2024-10-04: Added [Skuggja](characters/Skuggja.png)<br/>
-2024-09-30: Added [Mariko](characters/Mariko.png)<br/>
 
 **Table of contents**
 
@@ -135,7 +135,13 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 [Saaris](https://chub.ai/characters/Yaethi/saaris-625f62a3c89d) the motherless demon of change. Others are pending..
 
 **SilverLeaf**<br/>
-[Song Mei](characters/Song.png)<br/> the motherly professor. Part of [TheHolyDoggo](https://chub.ai/users/TheHolyDoggo)'s SilverLeaf university setting.
+[Song Mei](https://chub.ai/characters/Yaethi/song-mei-a529000a2015)<br/> the motherly professor. Part of [TheHolyDoggo](https://chub.ai/users/TheHolyDoggo)'s SilverLeaf university setting.
+
+**Charming Tails Bistro**<br/>
+[Sorri](https://chub.ai/characters/Yaethi/sorri-ce60752d7cfd)<br/> the inappropriate mouse girl. Part of [AnonBrier](https://chub.ai/users/AnonBrier)'s [Charming Tails Bistro](https://chub.ai/search?tags=charming%20tails%20bistro) setting.
+
+**Rising Sun**<br/>
+[Yoru](https://chub.ai/characters/Yaethi/yoru-780ac1bb7ec1)<br/> the kuroneko. Part of [Xenton05](https://chub.ai/users/Xenton05)'s [Rising Sun](https://chub.ai/search?tags=rising%20sun) setting.
 
 
 # Standalone
