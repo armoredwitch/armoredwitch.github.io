@@ -9,9 +9,9 @@
 Ja
 
 **Timeline**
+2024-10-10: Added [Bella](characters/Bella.png)<br/>
 2024-10-07: Added [Yoru](characters/Yoru.png)<br/>
 2024-10-06: Added [Sorri](characters/Sorri.png)<br/>
-2024-10-04: Added [Stjarna](characters/Stjarna.png)<br/>
 
 **Table of contents**
 
@@ -149,7 +149,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 These cards may be tied to unusual for me setting, or to be too different from others to be grouped with them.
 
 **The Office**<br/>
-[Claws](characters/Claws.png) the angery meownager
+[Claws](characters/Claws.png) the angery meownager, [Bella](characters/Bella.png) the motherly secretary
 
 **Rooted in reality**<br/>
 [Towa](characters/Towa.png) the dumb yandere you kidnapped, [Jade](https://chub.ai/characters/Yaethi/jade-826d9fc332e8) the lovestruck triad boss
