@@ -145,7 +145,6 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 **Rising Sun**<br/>
 [Yoru](https://chub.ai/characters/Yaethi/yoru-780ac1bb7ec1)<br/> the kuroneko. Part of [Xenton05](https://chub.ai/users/Xenton05)'s [Rising Sun](https://chub.ai/search?tags=rising%20sun) setting.
 
-
 # Standalone
 
 These cards may be tied to unusual for me setting, or to be too different from others to be grouped with them.
