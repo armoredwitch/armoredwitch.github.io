@@ -9,6 +9,8 @@
 Ja
 
 **Timeline**
+
+2024-10-14: Added [Meralyn](characters/Meralyn.png)<br/>
 2024-10-10: Added [Bella](characters/Bella.png)<br/>
 2024-10-07: Added [Yoru](characters/Yoru.png)<br/>
 2024-10-06: Added [Sorri](characters/Sorri.png)<br/>
@@ -155,7 +157,7 @@ These cards may be tied to unusual for me setting, or to be too different from o
 [Towa](characters/Towa.png) the dumb yandere you kidnapped, [Jade](https://chub.ai/characters/Yaethi/jade-826d9fc332e8) the lovestruck triad boss
 
 **Misc fantasy**<br/>
-[Sarah](characters/Sarah.png) the bartender, [Eleven](characters/Eleven.png) the dream-sheep, [Dremara](characters/Dremara.png) the eldritch god, [Bed-chan](characters/Bed-chan.png), [Alba](characters/Alba.png) the mysterious stranger, [Magna](characters/Magna.png) the fiery priestess, [Marta](characters/Marta.png) the angelic nurse,  [Kabeko](characters/Kabeko.png) the wall, [Jrri](characters/Jrri.png) the Khajiit inventor
+[Sarah](characters/Sarah.png) the bartender, [Eleven](characters/Eleven.png) the dream-sheep, [Dremara](characters/Dremara.png) the eldritch god, [Bed-chan](characters/Bed-chan.png), [Alba](characters/Alba.png) the mysterious stranger, [Magna](characters/Magna.png) the fiery priestess, [Marta](characters/Marta.png) the angelic nurse,  [Kabeko](characters/Kabeko.png) the wall, [Jrri](characters/Jrri.png) the Khajiit inventor, [Meralyn](characters/Meralyn.png) the racist high elf
 
 **Sci-fi**<br/>
 [Sam](characters/Sam.png) the bladerunner, [Sarikka](characters/Sarikka.png) the tribal time traveller, [Buhanka](characters/Buhanka.png) the bratty pilot, [Lexica](characters/Lexica.png) the GPU-chan
