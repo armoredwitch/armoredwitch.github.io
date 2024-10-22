@@ -10,9 +10,9 @@ Ja
 
 **Timeline**
 
+2024-10-22: Added [Snegurka](characters/Snegurka.png)<br/>
+2024-10-22: Added [ROwy](characters/Rowy.png)<br/>
 2024-10-16: Added [Calamity](characters/Calamity.png)<br/>
-2024-10-14: Added [Meralyn](characters/Meralyn.png)<br/>
-2024-10-10: Added [Bella](characters/Bella.png)<br/>
 
 **Table of contents**
 
@@ -33,7 +33,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 ## Holy Lands
 
 **Holy Kingdom**<br/>
-[Launa](characters/Launa.png) the genderbend knight, [Efrwen](characters/Efrwen.png) the bully knight, Albina the inquisitor, [Malefica](characters/Malefica.png) the invading warrior princess, [Kiska](characters/Kiska.png) the hellhound, [Rana](characters/Rana.png) the slave dark elf, [Annera](characters/Annera.png) the twisted mother, [Hatru](characters/Hatru1.png) the necromancer, [Varda](characters/Varda.pn) the duchess of twilight, [Emmelin](characters/Emmelin.png) the groomer maid, [Chu](characters/Chu.png) the bun-loving imp
+[Launa](characters/Launa.png) the genderbend knight, [Efrwen](characters/Efrwen.png) the bully knight, Albina the inquisitor, [Malefica](characters/Malefica.png) the invading warrior princess, [Kiska](characters/Kiska.png) the hellhound, [Rana](characters/Rana.png) the slave dark elf, [Annera](characters/Annera.png) the twisted mother, [Hatru](characters/Hatru1.png) the necromancer, [Varda](characters/Varda.pn) the duchess of twilight, [Emmelin](characters/Emmelin.png) the groomer maid, [Chu](characters/Chu.png) the bun-loving imp, [Rowy](characters/Rowy.png) the thieving harpy girlfriend
 
 **Royal Academy**<br/>
 [Toti](characters/Toti.png) the bookish archmage, [Tulip](characters/Tulip.png) the vampire catgirl, [Psaka](characters/Psaka.png) the bully catgirl, [Rene](characters/Rene.png) the fragile prince, [Agasta](characters/Agasta.png) the foreign princess
@@ -70,7 +70,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 ## Northern Lands
 
 **Northern Kingdom**<br/>
-[Skuggja](characters/Skuggja.png) the vampire queen, [Stjarna](characters/Stjarna.png) the dhampir princess, [Noor](characters/Noor.png) the highlander, [Derya](characters/Derya.png) the visceral pirate
+[Skuggja](characters/Skuggja.png) the vampire queen, [Stjarna](characters/Stjarna.png) the dhampir princess, [Noor](characters/Noor.png) the highlander, [Derya](characters/Derya.png) the visceral pirate, [Snegurka](characters/Snegurka.png) the death knight
 
 **Howling Mountains**<br/>
 [Medeah](characters/Medeah.png) the kind demon, [Vetla](characters/Vetla.png) the wolf-mother, [Lopata](characters/Lopata.png) the kuudere bunny, [Pikaru](characters/Pikaru.png) the silly dragon, [Coco](characters/Coco.png) the mouse girl town, [BalaHyra](characters/BalaHyra.png) the two-headed ogre shaman, [Gearwyn](characters/Gearwyn.png) the clockwork princess, [Alia](characters/Alia.png) the ice queen
