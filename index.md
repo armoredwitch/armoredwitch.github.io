@@ -10,9 +10,9 @@ Ja
 
 **Timeline**
 
+2024-10-24: Added [Melie](characters/Melie.png)<br/>
 2024-10-22: Added [Snegurka](characters/Snegurka.png)<br/>
 2024-10-22: Added [ROwy](characters/Rowy.png)<br/>
-2024-10-16: Added [Calamity](characters/Calamity.png)<br/>
 
 **Table of contents**
 
@@ -33,7 +33,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 ## Holy Lands
 
 **Holy Kingdom**<br/>
-[Launa](characters/Launa.png) the genderbend knight, [Efrwen](characters/Efrwen.png) the bully knight, Albina the inquisitor, [Malefica](characters/Malefica.png) the invading warrior princess, [Kiska](characters/Kiska.png) the hellhound, [Rana](characters/Rana.png) the slave dark elf, [Annera](characters/Annera.png) the twisted mother, [Hatru](characters/Hatru1.png) the necromancer, [Varda](characters/Varda.pn) the duchess of twilight, [Emmelin](characters/Emmelin.png) the groomer maid, [Chu](characters/Chu.png) the bun-loving imp, [Rowy](characters/Rowy.png) the thieving harpy girlfriend
+[Launa](characters/Launa.png) the genderbend knight, [Efrwen](characters/Efrwen.png) the bully knight, Albina the inquisitor, [Malefica](characters/Malefica.png) the invading warrior princess, [Kiska](characters/Kiska.png) the hellhound, [Rana](characters/Rana.png) the slave dark elf, [Annera](characters/Annera.png) the twisted mother, [Hatru](characters/Hatru1.png) the necromancer, [Varda](characters/Varda.png) the duchess of twilight, [Emmelin](characters/Emmelin.png) the groomer maid, [Chu](characters/Chu.png) the bun-loving imp, [Rowy](characters/Rowy.png) the thieving harpy girlfriend
 
 **Royal Academy**<br/>
 [Toti](characters/Toti.png) the bookish archmage, [Tulip](characters/Tulip.png) the vampire catgirl, [Psaka](characters/Psaka.png) the bully catgirl, [Rene](characters/Rene.png) the fragile prince, [Agasta](characters/Agasta.png) the foreign princess
@@ -133,7 +133,13 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 [Panna](https://chub.ai/characters/Yaethi/panna-0a0699f2ae7c) the kikimora. Her co-dwellers: [Veliara](https://chub.ai/characters/TuGunJr/veliara-bolar-shield-of-ra-ier-a4db28441f48) and [Melivari](https://chub.ai/characters/TuGunJr/melivari-bolar-mercy-of-ra-ier-c36017a39ec1) the hunted twins (by [TuGunJr](https://chub.ai/users/TuGunJr)), [Octavia](https://chub.ai/characters/KrowleyK/octavia-swamp-dwellers-collab-96c56d8056f4), the squishiest octopus (by [Krowley](https://chub.ai/users/KrowleyK)), [Scarlett](https://chub.ai/characters/TheHolyDoggo/scarlett-c322ac061e9e) the isekaid manager (by [TheHolyDoggo](https://chub.ai/users/TheHolyDoggo)), someone by Curious Knight, pending.
 
 **Deprived Abyss**<br/>
-[Saaris](https://chub.ai/characters/Yaethi/saaris-625f62a3c89d) the motherless demon of change. Others are pending..
+[Saaris](https://chub.ai/characters/Yaethi/saaris-625f62a3c89d) the motherless demon of change. Others: [The Draconic Aberration](https://chub.ai/characters/ZypherMakesBots/the-draconic-aberration-91dd30b20332),
+[The 13th floor annihilator](https://chub.ai/characters/TuGunJr/the-13th-floor-annihilator-d3f4c57da091),
+[Kurogane](https://chub.ai/characters/AnonBrier/kurogane-the-deep-oni-f692e86cc161) the deep oni,
+[Amara](https://chub.ai/characters/Anonymous/amara-6415e49fd5db) the golem maid,
+[Jlue](https://chub.ai/characters/KrowleyK/jlue-278c80e476df) the hugger,
+[Jacky](https://chub.ai/characters/TheHolyDoggo/jacky-91c4fb7083bb) the maddened adventurer,
+[Fumiko](https://chub.ai/characters/Xenton05/yashima-fumiko-689a790981bd) the broken spirit
 
 **SilverLeaf**<br/>
 [Song Mei](https://chub.ai/characters/Yaethi/song-mei-a529000a2015) the motherly professor. Part of [TheHolyDoggo](https://chub.ai/users/TheHolyDoggo)'s SilverLeaf university setting.
@@ -144,8 +150,11 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 **Rising Sun**<br/>
 [Yoru](https://chub.ai/characters/Yaethi/yoru-780ac1bb7ec1) the kuroneko. Part of [Xenton05](https://chub.ai/users/Xenton05)'s [Rising Sun](https://chub.ai/search?tags=rising%20sun) setting.
 
-**Calamity**<br/>
+**Bakkar**<br/>
 [Calamity](https://chub.ai/characters/Yaethi/calamity-c98b8e666575) the wrath. Part of [Zypher](https://chub.ai/users/ZypherMakesBots)'s [Bakkar](https://chub.ai/search?tags=bakkar) setting.
+
+**Humming forest**<br/>
+[Mellie](https://chub.ai/characters/Yaethi/melie-daed062e02c4) the kitten druid....
 
 # Standalone
 
