@@ -10,6 +10,7 @@ Ja
 
 **Timeline**
 
+2024-10-31: Added [Tasha](characters/v2_Tasha.png)<br/>
 2024-10-24: Added [Melie](characters/Melie.png)<br/>
 2024-10-22: Added [Snegurka](characters/Snegurka.png)<br/>
 2024-10-22: Added [ROwy](characters/Rowy.png)<br/>
@@ -154,7 +155,10 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 [Calamity](https://chub.ai/characters/Yaethi/calamity-c98b8e666575) the wrath. Part of [Zypher](https://chub.ai/users/ZypherMakesBots)'s [Bakkar](https://chub.ai/search?tags=bakkar) setting.
 
 **Humming forest**<br/>
-[Mellie](https://chub.ai/characters/Yaethi/melie-daed062e02c4) the kitten druid....
+[Mellie](https://chub.ai/characters/Yaethi/melie-daed062e02c4) the kitten druid. Collab with [Nanda](https://chub.ai/users/Nandarch).
+
+**Spooky situation**<br/>
+[Tasha](https://chub.ai/characters/Yaethi/tasha-cf219e8683d8) in the Cat's House.
 
 # Standalone
 
