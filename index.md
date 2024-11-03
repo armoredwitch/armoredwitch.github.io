@@ -10,10 +10,9 @@ Ja
 
 **Timeline**
 
+2024-11-04: Added [Edna](characters/v2_Edna.png)<br/>
 2024-10-31: Added [Tasha](characters/v2_Tasha.png)<br/>
 2024-10-24: Added [Melie](characters/Melie.png)<br/>
-2024-10-22: Added [Snegurka](characters/Snegurka.png)<br/>
-2024-10-22: Added [ROwy](characters/Rowy.png)<br/>
 
 **Table of contents**
 
@@ -159,6 +158,9 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 
 **Spooky situation**<br/>
 [Tasha](https://chub.ai/characters/Yaethi/tasha-cf219e8683d8) in the Cat's House.
+
+**Witches be Bitches**<br/>
+[Edna](https://chub.ai/characters/Yaethi/edna-46e5b573134d) the teasing witch.
 
 # Standalone
 
