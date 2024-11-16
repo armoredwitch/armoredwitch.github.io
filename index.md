@@ -10,7 +10,7 @@ Ja
 
 **Timeline**
 
-2024-11-04: Added [Edna](characters/v2_Edna.png)<br/>
+2024-11-16: Added [Finni](characters/v2_Finni.png)<br/>
 2024-10-31: Added [Tasha](characters/v2_Tasha.png)<br/>
 2024-10-24: Added [Melie](characters/Melie.png)<br/>
 
@@ -161,6 +161,9 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 
 **Witches be Bitches**<br/>
 [Edna](https://chub.ai/characters/Yaethi/edna-46e5b573134d) the teasing witch.
+
+**You're in relationship with Mao**<br/>
+[Finni](https://chub.ai/characters/Yaethi/finni-883917ad7073) the demon failure of a girl.
 
 # Standalone
 
