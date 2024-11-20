@@ -10,6 +10,7 @@ Ja
 
 **Timeline**
 
+2024-11-19: Added [Yun Yi](characters/v2_Yun Yi.png)<br/>
 2024-11-16: Added [Finni](characters/v2_Finni.png)<br/>
 2024-10-31: Added [Tasha](characters/v2_Tasha.png)<br/>
 2024-10-24: Added [Melie](characters/Melie.png)<br/>
@@ -164,6 +165,9 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 
 **You're in relationship with Mao**<br/>
 [Finni](https://chub.ai/characters/Yaethi/finni-883917ad7073) the demon failure of a girl.
+
+**Seekers of soul**
+[Yun Yi](https://chub.ai/characters/Yaethi/yun-yi-034807c312f0) the seeker of soul, her sister, [Yun Jee](https://chub.ai/characters/simple_hearing_1627/yun-jee-the-evil-fox-spirit-76087dccaf9e), by [Flik](https://chub.ai/users/simple_hearing_1627).
 
 # Standalone
 
