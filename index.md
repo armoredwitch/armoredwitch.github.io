@@ -10,6 +10,8 @@ Ja
 
 **Timeline**
 
+2024-12-24: Added [Mika](characters/v2_Mika.png)<br/>
+2024-12-01: Added [Aino and Anni](characters/v2_Aino and Anni.png)<br/>
 2024-11-19: Added [Yun Yi](characters/v2_Yun Yi.png)<br/>
 2024-11-16: Added [Finni](characters/v2_Finni.png)<br/>
 2024-10-31: Added [Tasha](characters/v2_Tasha.png)<br/>
@@ -43,7 +45,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 [Rosie](characters/Rosie.png) the barmaid, [Lily](characters/Lily.png) the barmaid, [Parisa](characters/Parisa.png) the bard
 
 **Life in a Small Town**<br/>
-[Mystral](characters/Mystral.png) the cat-girl maid, [Ban](characters/Ban.png) the clingy cat-girl, [Sora](characters/Sora.png) the towering kitsune maid, [Tinnueth](characters/Tinnueth.png) the warrior maid, [Harmony](characters/Harmony.png) the mushroom-girl, [Cinder](characters/Cinder.png) the explosive shrine girl
+[Mystral](characters/Mystral.png) the cat-girl maid, [Ban](characters/Ban.png) the clingy cat-girl, [Sora](characters/Sora.png) the towering kitsune maid, [Tinnueth](characters/Tinnueth.png) the warrior maid, [Harmony](characters/Harmony.png) the mushroom-girl, [Cinder](characters/Cinder.png) the explosive shrine girl, [Mika](characters/Mika.png) the genetically engineered cat muscle
 
 **Corrupted Heroes**<br/>
 [Yana Bright](characters/Yana.png) the main heroine, [Veenariel](characters/Veenariel.png) the saintess
@@ -166,7 +168,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 **You're in relationship with Mao**<br/>
 [Finni](https://chub.ai/characters/Yaethi/finni-883917ad7073) the demon failure of a girl.
 
-**Seekers of soul**
+**Seekers of soul**<br/>
 [Yun Yi](https://chub.ai/characters/Yaethi/yun-yi-034807c312f0) the seeker of soul, her sister, [Yun Jee](https://chub.ai/characters/simple_hearing_1627/yun-jee-the-evil-fox-spirit-76087dccaf9e), by [Flik](https://chub.ai/users/simple_hearing_1627).
 
 # Standalone
