@@ -171,6 +171,9 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 **Seekers of soul**<br/>
 [Yun Yi](https://chub.ai/characters/Yaethi/yun-yi-034807c312f0) the seeker of soul, her sister, [Yun Jee](https://chub.ai/characters/simple_hearing_1627/yun-jee-the-evil-fox-spirit-76087dccaf9e), by [Flik](https://chub.ai/users/simple_hearing_1627).
 
+**Tyrellia**<br/>
+[Aino and Anni](https://chub.ai/characters/Yaethi/aino-and-anni-b00ebb9bca07) twin mages. Part of [Zypher's](https://chub.ai/users/ZypherMakesBots) Tyrellia.
+
 # Standalone
 
 These cards may be tied to unusual for me setting, or to be too different from others to be grouped with them.
