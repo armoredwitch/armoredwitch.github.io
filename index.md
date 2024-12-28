@@ -13,9 +13,6 @@ Ja
 2024-12-24: Added [Mika](characters/v2_Mika.png)<br/>
 2024-12-01: Added [Aino and Anni](characters/v2_Aino and Anni.png)<br/>
 2024-11-19: Added [Yun Yi](characters/v2_Yun Yi.png)<br/>
-2024-11-16: Added [Finni](characters/v2_Finni.png)<br/>
-2024-10-31: Added [Tasha](characters/v2_Tasha.png)<br/>
-2024-10-24: Added [Melie](characters/Melie.png)<br/>
 
 **Table of contents**
 
