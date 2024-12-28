@@ -10,9 +10,7 @@ Ja
 
 **Timeline**
 
-2024-12-24: Added [Mika](characters/v2_Mika.png)<br/>
-2024-12-01: Added [Aino and Anni](characters/v2_Aino and Anni.png)<br/>
-2024-11-19: Added [Yun Yi](characters/v2_Yun Yi.png)<br/>
+2024-12-28: Updated [Ysaba](characters/v2_Ysaba.png)<br/>
 
 **Table of contents**
 
@@ -25,10 +23,22 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 **Combat adventure**<br/>
 [Ignisia](characters/Ignisia.png) the dragon, [Hatru](characters/Hatru.png) the lich
 
-## Whimsical Kingdom
+## Northern Lands
 
-**Whimsical Kingdom**<br/>
-[Ysaba](characters/Ysaba.png) the sleepy fairy, [Frokey](characters/Frokey.png) the frog-girl assassin, [Momo-chan](characters/Momo-chan.png) the demon lord, [Piko](characters/Piko.png) the steward, [Yuha](characters/Yuha.png) the troll girl, [Achy](characters/Achy.png) the headache, [Potato](characters/Potato.png) the smoll minion, [Mana](characters/Mana.png) the timid pink kitsune, [Sahti](characters/Sahti.png) the rock-star butterfly, [Tsunami](characters/Tsunami.png) the cat-girl surfer
+**Northern Kingdom**<br/>
+[Skuggja](characters/Skuggja.png) the vampire queen, [Stjarna](characters/Stjarna.png) the dhampir princess, [Noor](characters/Noor.png) the highlander, [Derya](characters/Derya.png) the visceral pirate, [Snegurka](characters/Snegurka.png) the death knight
+
+**Howling Mountains**<br/>
+[Medeah](characters/Medeah.png) the kind demon, [Vetla](characters/Vetla.png) the wolf-mother, [Lopata](characters/Lopata.png) the kuudere bunny, [Pikaru](characters/Pikaru.png) the silly dragon, [Coco](characters/Coco.png) the mouse girl town, [BalaHyra](characters/BalaHyra.png) the two-headed ogre shaman, [Gearwyn](characters/Gearwyn.png) the clockwork princess, [Alia](characters/Alia.png) the ice queen
+
+**Elven realm**<br/>
+[Anneli](characters/Anneli.png) the pervert, [Ciliren](characters/Ciliren.png) the war criminal, [Usanya](characters/Usanya.png) the princess yandere
+
+**Eisenhart Principality**<br/>
+[Reeba](characters/Reeba.png) the ambitious jester, Mara Eisenhart the inexperienced Sovereign
+
+**Northern Wastes**<br/>
+[Helka](characters/Helka.png) the last snow elf, [Gaera](characters/Gaera.png) the motherly fenrir
 
 ## Holy Lands
 
@@ -53,6 +63,11 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 **The Stolen Egg**<br/>
 [Daphne](characters/Daphne.png) the motherly harpy, [Fleur](characters/Fleur.png) the deranged harpy, [Aurora](characters/Aurora.png) the hopeful harpy
 
+## Whimsical Kingdom
+
+**Whimsical Kingdom**<br/>
+[Ysaba](characters/Ysaba.png) the sleepy fairy, [Frokey](characters/Frokey.png) the frog-girl assassin, [Momo-chan](characters/Momo-chan.png) the demon lord, [Piko](characters/Piko.png) the steward, [Yuha](characters/Yuha.png) the troll girl, [Achy](characters/Achy.png) the headache, [Potato](characters/Potato.png) the smoll minion, [Mana](characters/Mana.png) the timid pink kitsune, [Sahti](characters/Sahti.png) the rock-star butterfly, [Tsunami](characters/Tsunami.png) the cat-girl surfer
+
 ## Deep Dark
 
 **Yandere of the Deep Dark**<br/>
@@ -60,29 +75,6 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 
 **Legends of the Deep Dark**<br/>
 [Nibur](characters/Nibur.png) the minotaur
-
-**The Hole**<br/>
-[Pippi](characters/Pippi.png) the mushroom farmer, [Gara](characters/Gara.png) the sassy guard, [Vyx](characters/Vyx.png) the scarred dark elf
-
-**Monsters of the Deep Dark**<br/>
-[Zynkara](characters/Zynkara.png) the spider, [Surge](characters/Surge.png) the shadow
-
-## Northern Lands
-
-**Northern Kingdom**<br/>
-[Skuggja](characters/Skuggja.png) the vampire queen, [Stjarna](characters/Stjarna.png) the dhampir princess, [Noor](characters/Noor.png) the highlander, [Derya](characters/Derya.png) the visceral pirate, [Snegurka](characters/Snegurka.png) the death knight
-
-**Howling Mountains**<br/>
-[Medeah](characters/Medeah.png) the kind demon, [Vetla](characters/Vetla.png) the wolf-mother, [Lopata](characters/Lopata.png) the kuudere bunny, [Pikaru](characters/Pikaru.png) the silly dragon, [Coco](characters/Coco.png) the mouse girl town, [BalaHyra](characters/BalaHyra.png) the two-headed ogre shaman, [Gearwyn](characters/Gearwyn.png) the clockwork princess, [Alia](characters/Alia.png) the ice queen
-
-**Elven realm**<br/>
-[Anneli](characters/Anneli.png) the pervert, [Ciliren](characters/Ciliren.png) the war criminal, [Usanya](characters/Usanya.png) the princess yandere
-
-**Eisenhart Principality**<br/>
-[Reeba](characters/Reeba.png) the ambitious jester, Mara Eisenhart the inexperienced Sovereign
-
-**Northern Wastes**<br/>
-[Helka](characters/Helka.png) the last snow elf, [Gaera](characters/Gaera.png) the motherly fenrir
 
 ## You are the Demon Lord
 
