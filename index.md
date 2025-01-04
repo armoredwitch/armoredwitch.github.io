@@ -6,7 +6,6 @@
 
 **_Content warning note_**
 *These cards are, in general, SFW, but some of them contain suggestive scenarios. These scenarios are marked in the author's notes, but, overall, usually even then you have a chance to steer conversation away from questionable topics.*
-Ja
 
 **Timeline**
 
@@ -26,16 +25,13 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 ## Northern Lands
 
 **Northern Kingdom**<br/>
-[Skuggja](characters/Skuggja.png) the vampire queen, [Stjarna](characters/Stjarna.png) the dhampir princess, [Noor](characters/Noor.png) the highlander, [Derya](characters/Derya.png) the visceral pirate, [Snegurka](characters/Snegurka.png) the death knight
+[Skuggja](characters/Skuggja.png) the vampire queen, [Stjarna](characters/Stjarna.png) the dhampir princess, [Noor](characters/Noor.png) the highlander, [Snegurka](characters/Snegurka.png) the death knight
 
 **Howling Mountains**<br/>
-[Medeah](characters/Medeah.png) the kind demon, [Vetla](characters/Vetla.png) the wolf-mother, [Lopata](characters/Lopata.png) the kuudere bunny, [Pikaru](characters/Pikaru.png) the silly dragon, [Coco](characters/Coco.png) the mouse girl town, [BalaHyra](characters/BalaHyra.png) the two-headed ogre shaman, [Gearwyn](characters/Gearwyn.png) the clockwork princess, [Alia](characters/Alia.png) the ice queen
+[Medeah](characters/Medeah.png) the kind demon, [Vetla](characters/Vetla.png) the wolf-mother, [Lopata](characters/Lopata.png) the kuudere bunny, [Pikaru](characters/Pikaru.png) the silly dragon, [Alia](characters/Alia.png) the ice queen
 
 **Elven realm**<br/>
 [Anneli](characters/Anneli.png) the pervert, [Ciliren](characters/Ciliren.png) the war criminal, [Usanya](characters/Usanya.png) the princess yandere
-
-**Eisenhart Principality**<br/>
-[Reeba](characters/Reeba.png) the ambitious jester, Mara Eisenhart the inexperienced Sovereign
 
 **Northern Wastes**<br/>
 [Helka](characters/Helka.png) the last snow elf, [Gaera](characters/Gaera.png) the motherly fenrir
@@ -43,30 +39,28 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 ## Holy Lands
 
 **Holy Kingdom**<br/>
-[Launa](characters/Launa.png) the genderbend knight, [Efrwen](characters/Efrwen.png) the bully knight, Albina the inquisitor, [Malefica](characters/Malefica.png) the invading warrior princess, [Kiska](characters/Kiska.png) the hellhound, [Rana](characters/Rana.png) the slave dark elf, [Annera](characters/Annera.png) the twisted mother, [Hatru](characters/Hatru1.png) the necromancer, [Varda](characters/Varda.png) the duchess of twilight, [Emmelin](characters/Emmelin.png) the groomer maid, [Chu](characters/Chu.png) the bun-loving imp, [Rowy](characters/Rowy.png) the thieving harpy girlfriend
+[Launa](characters/Launa.png) the genderbend knight, [Efrwen](characters/Efrwen.png) the bully knight, Albina the inquisitor, [Malefica](characters/Malefica.png) the invading warrior princess, [Kiska](characters/Kiska.png) the hellhound, [Rana](characters/Rana.png) the slave dark elf, [Annera](characters/Annera.png) the twisted mother, [Varda](characters/Varda.png) the duchess of twilight, [Emmelin](characters/Emmelin.png) the groomer maid, [Chu](characters/Chu.png) the bun-loving imp, [Rowy](characters/Rowy.png) the thieving harpy girlfriend
 
 **Royal Academy**<br/>
-[Toti](characters/Toti.png) the bookish archmage, [Tulip](characters/Tulip.png) the vampire catgirl, [Psaka](characters/Psaka.png) the bully catgirl, [Rene](characters/Rene.png) the fragile prince, [Agasta](characters/Agasta.png) the foreign princess
+[Psaka](characters/Psaka.png) the bully catgirl, [Agasta](characters/Agasta.png) the foreign princess
 
 **Nights at the Tavern**<br/>
-[Rosie](characters/Rosie.png) the barmaid, [Lily](characters/Lily.png) the barmaid, [Parisa](characters/Parisa.png) the bard
+[Rosie](characters/Rosie.png) the barmaid, [Lily](characters/Lily.png) the barmaid
 
 **Life in a Small Town**<br/>
-[Mystral](characters/Mystral.png) the cat-girl maid, [Ban](characters/Ban.png) the clingy cat-girl, [Sora](characters/Sora.png) the towering kitsune maid, [Tinnueth](characters/Tinnueth.png) the warrior maid, [Harmony](characters/Harmony.png) the mushroom-girl, [Cinder](characters/Cinder.png) the explosive shrine girl, [Mika](characters/Mika.png) the genetically engineered cat muscle
+[Mystral](characters/Mystral.png) the cat-girl maid, [Ban](characters/Ban.png) the clingy cat-girl, [Sora](characters/Sora.png) the towering kitsune maid, [Tinnueth](characters/Tinnueth.png) the warrior maid, [Cinder](characters/Cinder.png) the explosive shrine girl, [Mika](characters/v2_Mika.png) the genetically engineered cat muscle, 
 
 **Corrupted Heroes**<br/>
 [Yana Bright](characters/Yana.png) the main heroine, [Veenariel](characters/Veenariel.png) the saintess
 
 **Dark forest**<br/>
-[Ophelia](characters/Ophelia.png) the nec-romancer, [Nyavka](characters/Nyavka.png) the catgirl spirit, [Enthonina](characters/Enthonina.png) the lost princess, [Magnificent](characters/Magnificent.png) the midwife witch
+[Ophelia](characters/Ophelia.png) the nec-romancer, [Enthonina](characters/Enthonina.png) the lost princess
+
+**Humming forest**<br/>
+[Ysaba](characters/v2_Ysaba.png) the sleepy fairy, [Frokey](characters/Frokey.png) the frog-girl assassin, [Mana](characters/Mana.png) the timid pink kitsune, [Melie](characters/Melie.png) the cat druid
 
 **The Stolen Egg**<br/>
 [Daphne](characters/Daphne.png) the motherly harpy, [Fleur](characters/Fleur.png) the deranged harpy, [Aurora](characters/Aurora.png) the hopeful harpy
-
-## Whimsical Kingdom
-
-**Whimsical Kingdom**<br/>
-[Ysaba](characters/Ysaba.png) the sleepy fairy, [Frokey](characters/Frokey.png) the frog-girl assassin, [Momo-chan](characters/Momo-chan.png) the demon lord, [Piko](characters/Piko.png) the steward, [Yuha](characters/Yuha.png) the troll girl, [Achy](characters/Achy.png) the headache, [Potato](characters/Potato.png) the smoll minion, [Mana](characters/Mana.png) the timid pink kitsune, [Sahti](characters/Sahti.png) the rock-star butterfly, [Tsunami](characters/Tsunami.png) the cat-girl surfer
 
 ## Deep Dark
 
@@ -87,7 +81,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 [Sareli](characters/Sareli.png) the demon lord, [Kulya](characters/Kulya.png) the lonely ash demon, [Mezana](characters/Mezana.png) the possessing demon (self-conscience)
 
 **Pantheon**<br/>
-[Kitty](characters/Kitty.png) the MC goddess
+[Kitty](characters/Kitty.png) the MC goddess, [Sanvi](characters/v2_Sanvi.png) the goddess of love
 
 **Voided**<br/>
 [Xioris](characters/Xioris.png) the goddess of discord, [Sara](characters/Sara.png) the explorer of the eldritch
@@ -191,6 +185,33 @@ These cards may be tied to unusual for me setting, or to be too different from o
 # Archive
 
 These cards have been retired. They are unlikely to be reinstated or receive any updates, although, requests can be made.
+
+**Northern Kingodm**<br/>
+[Derya](characters/Derya.png) the visceral pirate
+
+**Howling Mountains**<br/>
+[Coco](characters/Coco.png) the mouse girl town, [BalaHyra](characters/BalaHyra.png) the two-headed ogre shaman, [Gearwyn](characters/Gearwyn.png) the clockwork princess
+
+**Eisenhart Principality**<br/>
+[Reeba](characters/Reeba.png) the ambitious jester, Mara Eisenhart the inexperienced Sovereign
+
+**Holy Lands**<br/>
+[Hatru](characters/Hatru1.png) the necromancer
+
+**Royal Academy**<br/>
+[Toti](characters/Toti.png) the bookish archmage, [Tulip](characters/Tulip.png) the vampire catgirl, [Rene](characters/Rene.png) the fragile prince
+
+**Nights at the Tavern**<br/>
+[Parisa](characters/Parisa.png) the bard
+
+**Life in a small town**<br/>
+[Harmony](characters/Harmony.png) the mushroom-girl
+
+**Dark Forest**<br/>
+[Nyavka](characters/Nyavka.png) the catgirl spirit, [Magnificent](characters/Magnificent.png) the midwife witch
+
+**Whimsical Kingdom**<br/>
+[Momo-chan](characters/Momo-chan.png) the demon lord, [Piko](characters/Piko.png) the steward, [Yuha](characters/Yuha.png) the troll girl, [Achy](characters/Achy.png) the headache, [Potato](characters/Potato.png) the smoll minion, [Sahti](characters/Sahti.png) the rock-star butterfly, [Tsunami](characters/Tsunami.png) the cat-girl surfer
 
 **Gods**<br/>
 [Morwen](characters/Morwen.png) the goddess of the end (introspection), [Setreya](characters/Setreya.png) the goddess of the dream (reflection), [Madar](characters/Madar.png) the goddess of creation (creation)
