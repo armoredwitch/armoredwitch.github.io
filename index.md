@@ -9,7 +9,7 @@
 
 **Timeline**
 
-2024-12-28: Updated [Ysaba](characters/v2_Ysaba.png)<br/>
+2025-01-04: Added [Ardora](characters/v2_Ardora.png)<br/>
 
 **Table of contents**
 
@@ -28,7 +28,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 [Skuggja](characters/Skuggja.png) the vampire queen, [Stjarna](characters/Stjarna.png) the dhampir princess, [Noor](characters/Noor.png) the highlander, [Snegurka](characters/Snegurka.png) the death knight
 
 **Howling Mountains**<br/>
-[Medeah](characters/Medeah.png) the kind demon, [Vetla](characters/Vetla.png) the wolf-mother, [Lopata](characters/Lopata.png) the kuudere bunny, [Pikaru](characters/Pikaru.png) the silly dragon, [Alia](characters/Alia.png) the ice queen
+[Medeah](characters/Medeah.png) the kind demon, [Vetla](characters/Vetla.png) the wolf-mother, [Lopata](characters/Lopata.png) the kuudere bunny, [Pikaru](characters/Pikaru.png) the silly dragon, [Alia](characters/Alia.png) the ice queen, [Ardora](characters/v2_Ardora.png) the adoptive dragon mother
 
 **Elven realm**<br/>
 [Anneli](characters/Anneli.png) the pervert, [Ciliren](characters/Ciliren.png) the war criminal, [Usanya](characters/Usanya.png) the princess yandere
@@ -48,7 +48,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 [Rosie](characters/Rosie.png) the barmaid, [Lily](characters/Lily.png) the barmaid
 
 **Life in a Small Town**<br/>
-[Mystral](characters/Mystral.png) the cat-girl maid, [Ban](characters/Ban.png) the clingy cat-girl, [Sora](characters/Sora.png) the towering kitsune maid, [Tinnueth](characters/Tinnueth.png) the warrior maid, [Cinder](characters/Cinder.png) the explosive shrine girl, [Mika](characters/v2_Mika.png) the genetically engineered cat muscle, 
+[Mystral](characters/Mystral.png) the cat-girl maid, [Ban](characters/Ban.png) the clingy cat-girl, [Sora](characters/Sora.png) the towering kitsune maid, [Tinnueth](characters/Tinnueth.png) the warrior maid, [Cinder](characters/Cinder.png) the explosive shrine girl, [Mika](characters/v2_Mika.png) the genetically engineered cat muscle,
 
 **Corrupted Heroes**<br/>
 [Yana Bright](characters/Yana.png) the main heroine, [Veenariel](characters/Veenariel.png) the saintess
