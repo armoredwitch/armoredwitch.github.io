@@ -10,6 +10,7 @@
 **Timeline**
 
 2025-01-08: Updated [Noor](characters/v2_Noor.png)<br/>
+2025-01-08: Updated [Lilia](characters/v2_Lilia.png)<br/>
 2025-01-04: Added [Ardora](characters/v2_Ardora.png)<br/>
 
 **Table of contents**
@@ -81,11 +82,12 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 **Demons**<br/>
 [Sareli](characters/Sareli.png) the demon lord, [Kulya](characters/Kulya.png) the lonely ash demon, [Mezana](characters/Mezana.png) the possessing demon (self-conscience)
 
-**Pantheon**<br/>
-[Kitty](characters/Kitty.png) the MC goddess, [Sanvi](characters/v2_Sanvi.png) the goddess of love
-
 **Voided**<br/>
 [Xioris](characters/Xioris.png) the goddess of discord, [Sara](characters/Sara.png) the explorer of the eldritch
+
+**Silly Pantheon**<br/>
+[Kitty](characters/Kitty.png) the MC goddess, [Sanvi](characters/v2_Sanvi.png) the goddess of love
+
 
 # Chub Collaborations
 
