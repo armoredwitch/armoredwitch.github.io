@@ -9,6 +9,7 @@
 
 **Timeline**
 
+2025-03-05: Added [Astaru](characters/v2_Astaru.png), [Grass](characters/v2_Grass.png), [Eir-Mirel](characters/v2_Eir-Mirel.png), [Kaliope](characters/v2_Kaliope.png)
 2025-01-19: Updated [Lopata](characters/v2_Lopata.png)<br/>
 2025-01-08: Updated [Noor](characters/v2_Noor.png)<br/>
 2025-01-08: Updated [Lilia](characters/v2_Lilia.png)<br/>
@@ -28,7 +29,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 ## Northern Lands
 
 **Northern Kingdom**<br/>
-[Skuggja](characters/Skuggja.png) the vampire queen, [Stjarna](characters/Stjarna.png) the dhampir princess, [Noor](characters/v2_Noor.png) the highlander, [Snegurka](characters/Snegurka.png) the death knight
+[Skuggja](characters/Skuggja.png) the vampire queen, [Stjarna](characters/Stjarna.png) the dhampir princess, [Noor](characters/v2_Noor.png) the highlander, [Snegurka](characters/Snegurka.png) the death knight, [Astaru](characters/v2_Astaru.pn) the priestess of love, [Kaliope](characters/v2_Kaliope.png) the philosopher
 
 **Howling Mountains**<br/>
 [Medeah](characters/Medeah.png) the kind demon, [Vetla](characters/Vetla.png) the wolf-mother, [Lopata](characters/v2_Lopata.png) the kuudere bunny, [Pikaru](characters/Pikaru.png) the silly dragon, [Alia](characters/Alia.png) the ice queen, [Ardora](characters/v2_Ardora.png) the adoptive dragon mother
@@ -91,6 +92,8 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 
 
 # Chub Collaborations
+
+Warning! These links lead to chub.ai. Tread carefully.
 
 **Demonized angels**<br/>
 [Shalva](https://chub.ai/characters/Yaethi/shalva-c8fe0a0d94ae) the submissive, [Malka](https://chub.ai/characters/Yaethi/malka-4cc42c052d50) the dominant. Their angelic selves: [Malika](https://chub.ai/characters/Xenton05/malika-150c4752d48a) and [Serene](https://chub.ai/characters/Xenton05/serena-c02d603de683) (by [Xenton05](https://chub.ai/users/Xenton05))
@@ -161,6 +164,12 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 **Tyrellia**<br/>
 [Aino and Anni](https://chub.ai/characters/Yaethi/aino-and-anni-b00ebb9bca07) twin mages. Part of [Zypher's](https://chub.ai/users/ZypherMakesBots) Tyrellia.
 
+**Zaveram**<br/>
+[Eir-Mirel](https://chub.ai/characters/Yaethi/eir-mirel-6cb79defcf89) the pirate captain. Her enemy: [Mir-Aleen](https://chub.ai/characters/Happy_Spanker/mir-aleen-913721ec2ad8) by [HappySpanker](https://chub.ai/users/Happy_Spanker).
+
+**Partially Assembled 2**<br/>
+[Kaliope](https://chub.ai/characters/Yaethi/kaliope-8c7dae6d5a55) the philosopher.
+
 # Standalone
 
 These cards may be tied to unusual for me setting, or to be too different from others to be grouped with them.
@@ -172,7 +181,7 @@ These cards may be tied to unusual for me setting, or to be too different from o
 [Towa](characters/Towa.png) the dumb yandere you kidnapped, [Jade](https://chub.ai/characters/Yaethi/jade-826d9fc332e8) the lovestruck triad boss
 
 **Misc fantasy**<br/>
-[Sarah](characters/Sarah.png) the bartender, [Eleven](characters/Eleven.png) the dream-sheep, [Dremara](characters/Dremara.png) the eldritch god, [Bed-chan](characters/Bed-chan.png), [Alba](characters/Alba.png) the mysterious stranger, [Magna](characters/Magna.png) the fiery priestess, [Marta](characters/Marta.png) the angelic nurse,  [Kabeko](characters/Kabeko.png) the wall, [Jrri](characters/Jrri.png) the Khajiit inventor, [Meralyn](characters/Meralyn.png) the racist high elf
+[Sarah](characters/Sarah.png) the bartender, [Eleven](characters/Eleven.png) the dream-sheep, [Dremara](characters/Dremara.png) the eldritch god, [Bed-chan](characters/Bed-chan.png), [Alba](characters/Alba.png) the mysterious stranger, [Magna](characters/Magna.png) the fiery priestess, [Marta](characters/Marta.png) the angelic nurse,  [Kabeko](characters/Kabeko.png) the wall, [Jrri](characters/Jrri.png) the Khajiit inventor, [Meralyn](characters/Meralyn.png) the racist high elf, [Grass](characters/v2_Grass.png)
 
 **Sci-fi**<br/>
 [Sam](characters/Sam.png) the bladerunner, [Sarikka](characters/Sarikka.png) the tribal time traveller, [Buhanka](characters/Buhanka.png) the bratty pilot, [Lexica](characters/Lexica.png) the GPU-chan
