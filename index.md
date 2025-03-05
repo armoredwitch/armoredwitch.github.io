@@ -77,7 +77,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 ## You are the Demon Lord
 
 **You are the Demon Lord**<br/>
-[Bessy](characters/Bessy.png) the bunny heroine
+[Bessy](characters/v2_Bessy.png) the bunny heroine
 
 ## Misc
 
