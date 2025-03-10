@@ -9,7 +9,8 @@
 
 **Timeline**
 
-2025-03-05: Added [Astaru](characters/v2_Astaru.png), [Grass](characters/v2_Grass.png), [Eir-Mirel](characters/v2_Eir-Mirel.png), [Kaliope](characters/v2_Kaliope.png)
+2025-03-10: Added [Cuid](characters/v2_Cuid.png)<br/>
+2025-03-05: Added [Astaru](characters/v2_Astaru.png), [Grass](characters/v2_Grass.png), [Eir-Mirel](characters/v2_Eir-Mirel.png), [Kaliope](characters/v2_Kaliope.png)<br/>
 2025-01-19: Updated [Lopata](characters/v2_Lopata.png)<br/>
 2025-01-08: Updated [Noor](characters/v2_Noor.png)<br/>
 2025-01-08: Updated [Lilia](characters/v2_Lilia.png)<br/>
@@ -32,7 +33,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 [Skuggja](characters/Skuggja.png) the vampire queen, [Stjarna](characters/Stjarna.png) the dhampir princess, [Noor](characters/v2_Noor.png) the highlander, [Snegurka](characters/Snegurka.png) the death knight, [Astaru](characters/v2_Astaru.pn) the priestess of love, [Kaliope](characters/v2_Kaliope.png) the philosopher
 
 **Howling Mountains**<br/>
-[Medeah](characters/Medeah.png) the kind demon, [Vetla](characters/Vetla.png) the wolf-mother, [Lopata](characters/v2_Lopata.png) the kuudere bunny, [Pikaru](characters/Pikaru.png) the silly dragon, [Alia](characters/Alia.png) the ice queen, [Ardora](characters/v2_Ardora.png) the adoptive dragon mother
+[Medeah](characters/Medeah.png) the kind demon, [Vetla](characters/Vetla.png) the wolf-mother, [Lopata](characters/v2_Lopata.png) the kuudere bunny, [Pikaru](characters/Pikaru.png) the silly dragon, [Alia](characters/Alia.png) the ice queen, [Ardora](characters/v2_Ardora.png) the adoptive dragon mother, [Cuid](characters/v2_Cuid.png)<br/> the celtic bear.
 
 **Elven realm**<br/>
 [Anneli](characters/Anneli.png) the pervert, [Ciliren](characters/Ciliren.png) the war criminal, [Usanya](characters/Usanya.png) the princess yandere
