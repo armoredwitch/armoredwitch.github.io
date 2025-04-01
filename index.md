@@ -9,12 +9,10 @@
 
 **Timeline**
 
+2025-04-01: Updated [Agasta](characters/v2_Agasta.png)<br/>
+2025-03-31: Added [Alethis](characters/v2_Alethis.png)<br/>
+2025-03-31: Added [Mila](characters/v2_Mila.png)<br/>
 2025-03-10: Added [Cuid](characters/v2_Cuid.png)<br/>
-2025-03-05: Added [Astaru](characters/v2_Astaru.png), [Grass](characters/v2_Grass.png), [Eir-Mirel](characters/v2_Eir-Mirel.png), [Kaliope](characters/v2_Kaliope.png)<br/>
-2025-01-19: Updated [Lopata](characters/v2_Lopata.png)<br/>
-2025-01-08: Updated [Noor](characters/v2_Noor.png)<br/>
-2025-01-08: Updated [Lilia](characters/v2_Lilia.png)<br/>
-2025-01-04: Added [Ardora](characters/v2_Ardora.png)<br/>
 
 **Table of contents**
 
@@ -47,7 +45,7 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 [Launa](characters/Launa.png) the genderbend knight, [Efrwen](characters/Efrwen.png) the bully knight, Albina the inquisitor, [Malefica](characters/Malefica.png) the invading warrior princess, [Kiska](characters/Kiska.png) the hellhound, [Rana](characters/Rana.png) the slave dark elf, [Annera](characters/Annera.png) the twisted mother, [Varda](characters/Varda.png) the duchess of twilight, [Emmelin](characters/Emmelin.png) the groomer maid, [Chu](characters/Chu.png) the bun-loving imp, [Rowy](characters/Rowy.png) the thieving harpy girlfriend
 
 **Royal Academy**<br/>
-[Psaka](characters/Psaka.png) the bully catgirl, [Agasta](characters/Agasta.png) the foreign princess
+[Psaka](characters/Psaka.png) the bully catgirl, [Agasta](characters/v2_Agasta.png) the foreign princess
 
 **Nights at the Tavern**<br/>
 [Rosie](characters/Rosie.png) the barmaid, [Lily](characters/Lily.png) the barmaid
@@ -182,10 +180,10 @@ These cards may be tied to unusual for me setting, or to be too different from o
 [Towa](characters/Towa.png) the dumb yandere you kidnapped, [Jade](https://chub.ai/characters/Yaethi/jade-826d9fc332e8) the lovestruck triad boss
 
 **Misc fantasy**<br/>
-[Sarah](characters/Sarah.png) the bartender, [Eleven](characters/Eleven.png) the dream-sheep, [Dremara](characters/Dremara.png) the eldritch god, [Bed-chan](characters/Bed-chan.png), [Alba](characters/Alba.png) the mysterious stranger, [Magna](characters/Magna.png) the fiery priestess, [Marta](characters/Marta.png) the angelic nurse,  [Kabeko](characters/Kabeko.png) the wall, [Jrri](characters/Jrri.png) the Khajiit inventor, [Meralyn](characters/Meralyn.png) the racist high elf, [Grass](characters/v2_Grass.png)
+[Sarah](characters/Sarah.png) the bartender, [Eleven](characters/Eleven.png) the dream-sheep, [Dremara](characters/Dremara.png) the eldritch god, [Bed-chan](characters/Bed-chan.png), [Alba](characters/Alba.png) the mysterious stranger, [Magna](characters/Magna.png) the fiery priestess, [Marta](characters/Marta.png) the angelic nurse,  [Kabeko](characters/Kabeko.png) the wall, [Jrri](characters/Jrri.png) the Khajiit inventor, [Meralyn](characters/Meralyn.png) the racist high elf, [Grass](characters/v2_Grass.png), [Mila](characters/v2_Mila.png) the misanthropic elf
 
 **Sci-fi**<br/>
-[Sam](characters/Sam.png) the bladerunner, [Sarikka](characters/Sarikka.png) the tribal time traveller, [Buhanka](characters/Buhanka.png) the bratty pilot, [Lexica](characters/Lexica.png) the GPU-chan
+[Sam](characters/Sam.png) the bladerunner, [Sarikka](characters/Sarikka.png) the tribal time traveller, [Buhanka](characters/Buhanka.png) the bratty pilot, [Lexica](characters/Lexica.png) the GPU-chan, [Alethis](characters/v2_Alethis.png) the goth girlfriend
 
 **The High War**<br/>
 [Zentonya](characters/Zentonya.png) the Soviet warmage, [Josephine](characters/Josephine.png) the Soviet leader
