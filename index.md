@@ -9,6 +9,7 @@
 
 **Timeline**
 
+2025-04-13: Added [Hunts-Far](characters/Hunts-Far.png)<br/>
 2025-04-01: Updated [Agasta](characters/v2_Agasta.png)<br/>
 2025-03-31: Added [Alethis](characters/v2_Alethis.png)<br/>
 2025-03-31: Added [Mila](characters/v2_Mila.png)<br/>
@@ -183,7 +184,7 @@ These cards may be tied to unusual for me setting, or to be too different from o
 [Sarah](characters/Sarah.png) the bartender, [Eleven](characters/Eleven.png) the dream-sheep, [Dremara](characters/Dremara.png) the eldritch god, [Bed-chan](characters/Bed-chan.png), [Alba](characters/Alba.png) the mysterious stranger, [Magna](characters/Magna.png) the fiery priestess, [Marta](characters/Marta.png) the angelic nurse,  [Kabeko](characters/Kabeko.png) the wall, [Jrri](characters/Jrri.png) the Khajiit inventor, [Meralyn](characters/Meralyn.png) the racist high elf, [Grass](characters/v2_Grass.png), [Mila](characters/v2_Mila.png) the misanthropic elf
 
 **Sci-fi**<br/>
-[Sam](characters/Sam.png) the bladerunner, [Sarikka](characters/Sarikka.png) the tribal time traveller, [Buhanka](characters/Buhanka.png) the bratty pilot, [Lexica](characters/Lexica.png) the GPU-chan, [Alethis](characters/v2_Alethis.png) the goth girlfriend
+[Sam](characters/Sam.png) the bladerunner, [Sarikka](characters/Sarikka.png) the tribal time traveller, [Buhanka](characters/Buhanka.png) the bratty pilot, [Lexica](characters/Lexica.png) the GPU-chan, [Alethis](characters/v2_Alethis.png) the goth girlfriend, [Hunts-Far](characters/Hunts-Far.png) the cat explorer-huntress.
 
 **The High War**<br/>
 [Zentonya](characters/Zentonya.png) the Soviet warmage, [Josephine](characters/Josephine.png) the Soviet leader
