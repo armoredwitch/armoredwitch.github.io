@@ -54,11 +54,8 @@ A collection of dark fantasy cards, at times silly, that are not necessarily uni
 **Life in a Small Town**<br/>
 [Mystral](characters/Mystral.png) the cat-girl maid, [Ban](characters/Ban.png) the clingy cat-girl, [Sora](characters/Sora.png) the towering kitsune maid, [Tinnueth](characters/Tinnueth.png) the warrior maid, [Cinder](characters/Cinder.png) the explosive shrine girl, [Mika](characters/v2_Mika.png) the genetically engineered cat muscle,
 
-**Corrupted Heroes**<br/>
-[Yana Bright](characters/Yana.png) the main heroine, [Veenariel](characters/Veenariel.png) the saintess
-
 **Dark forest**<br/>
-[Ophelia](characters/Ophelia.png) the nec-romancer, [Enthonina](characters/Enthonina.png) the lost princess
+[Ophelia](characters/Ophelia.png) the nec-romancer, [Enthonina](characters/Enthonina.png) the lost princess, [Magnificent](characters/v2_Magnificent.png) the midwife witch
 
 **Humming forest**<br/>
 [Ysaba](characters/v2_Ysaba.png) the sleepy fairy, [Frokey](characters/Frokey.png) the frog-girl assassin, [Mana](characters/Mana.png) the timid pink kitsune, [Melie](characters/Melie.png) the cat druid
@@ -221,10 +218,13 @@ These cards have been retired. They are unlikely to be reinstated or receive any
 [Harmony](characters/Harmony.png) the mushroom-girl
 
 **Dark Forest**<br/>
-[Nyavka](characters/Nyavka.png) the catgirl spirit, [Magnificent](characters/Magnificent.png) the midwife witch
+[Nyavka](characters/Nyavka.png) the catgirl spirit,
 
 **Whimsical Kingdom**<br/>
 [Momo-chan](characters/Momo-chan.png) the demon lord, [Piko](characters/Piko.png) the steward, [Yuha](characters/Yuha.png) the troll girl, [Achy](characters/Achy.png) the headache, [Potato](characters/Potato.png) the smoll minion, [Sahti](characters/Sahti.png) the rock-star butterfly, [Tsunami](characters/Tsunami.png) the cat-girl surfer
+
+**Corrupted Heroes**<br/>
+[Yana Bright](characters/Yana.png) the main heroine, [Veenariel](characters/Veenariel.png) the saintess
 
 **Gods**<br/>
 [Morwen](characters/Morwen.png) the goddess of the end (introspection), [Setreya](characters/Setreya.png) the goddess of the dream (reflection), [Madar](characters/Madar.png) the goddess of creation (creation)
