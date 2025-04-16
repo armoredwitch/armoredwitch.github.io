@@ -9,11 +9,11 @@
 
 **Timeline**
 
+2025-04-16: Updated [Magnificent](characters/v2_Magnificent.png)<br/>
 2025-04-13: Added [Hunts-Far](characters/Hunts-Far.png)<br/>
 2025-04-01: Updated [Agasta](characters/v2_Agasta.png)<br/>
 2025-03-31: Added [Alethis](characters/v2_Alethis.png)<br/>
 2025-03-31: Added [Mila](characters/v2_Mila.png)<br/>
-2025-03-10: Added [Cuid](characters/v2_Cuid.png)<br/>
 
 **Table of contents**
 
