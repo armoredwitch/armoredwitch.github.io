@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PNG Character Viewer</title>
+
+    <style>
+     * {
+       box-sizing: border-box;
+     }
+
+     body {
+       margin: 0;
+       background: #1a1a1a;
+       color: #f0f0f0;
+       font-family: Inter, Arial, sans-serif;
+     }
+
+     h1, h2, h3 {
+       margin-top: 0;
+       color: #66666;
+     }
+
+     .full-width {
+       width: 100%;
+     }
+
+     .meta-grid {
+       display: grid;
+       grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+       gap: 16px;
+     }
+
+     .container {
+       max-width: 1400px;
+       margin: 0 auto;
+       background: #262626;
+       border-radius: 0.5em;
+       padding: 1em;
+       box-shadow: 0 0 30px rgba(0,0,0,0.35);
+     }
+
+     .toolbar {
+       margin-bottom: 1em;
+     }
+
+     input[type="file"] {
+       margin-bottom: 12px;
+     }
+
+     .status {
+       color: #ffd166;
+       margin-bottom: 1em;
+     }
+
+     .top-layout {
+       display: grid;
+       grid-template-columns: 320px 1fr;
+       gap: 1em;
+       margin-bottom: 1em;
+     }
+
+     .portrait-box,
+     .meta-box,
+     .section,
+     .json-box {
+       background: #2f2f2f;
+       border-radius: 0.5em;
+       padding: 18px;
+       border: 1px solid #3b3b3b;
+     }
+
+     .portrait {
+       width: 100%;
+       border-radius: 0.5em;
+       object-fit: contain;
+       background: #111;
+       border: 1px solid #444;
+     }
+
+     .meta-grid {
+       display: grid;
+       grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+       gap: 16px;
+     }
+
+     .field {
+       margin-bottom: 18px;
+     }
+
+     .field-label {
+       font-size: 0.85rem;
+       color: #9f9f9f;
+       text-transform: uppercase;
+       letter-spacing: 0.08em;
+       margin-bottom: 6px;
+     }
+
+     .field-value {
+       background: #1d1d1d;
+       border-radius: 0.5em;
+       padding: 12px;
+       white-space: pre-wrap;
+       word-break: break-word;
+       line-height: 1.55;
+     }
+
+     .tags {
+       display: flex;
+       flex-wrap: wrap;
+       gap: 0.5em;
+     }
+
+     .tag {
+       background: #444;
+       color: #fff;
+       padding: 0.1em 0.2em;
+       border-radius: 0.1em;
+     }
+
+     .section {
+       margin-bottom: 1em;
+     }
+
+     .section h2 {
+       margin-bottom: 14px;
+     }
+
+     .greeting {
+       margin-bottom: 16px;
+       padding: 12px;
+       border-radius: 0.5em;
+       background: #1d1d1d;
+       line-height: 1.5;
+     }
+
+     details {
+       margin-top: 12px;
+     }
+
+     summary {
+       cursor: pointer;
+       color: #9f9f9f;
+       margin-bottom: 12px;
+     }
+
+     pre {
+       margin: 0;
+       overflow-x: auto;
+       white-space: pre-wrap;
+       word-break: break-word;
+       font-family: Consolas, monospace;
+       background: #111;
+       color: #ffffff;
+       padding: 16px;
+       border-radius: 0.5em;
+       border: 1px solid #444;
+       line-height: 1.45;
+     }
+
+     @media (max-width: 900px) {
+       .top-layout {
+         grid-template-columns: 1fr;
+       }
+     }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>PNG Character Viewer</h1>
+
+      <div class="toolbar">
+        <input type="file" id="fileInput" accept=".png" />
+        <div class="status" id="status">Select a character PNG file.</div>
+      </div>
+
+      <div id="viewer" style="display:none;">
+        <div class="top-layout">
+          <div class="portrait-box">
+            <h2>Portrait</h2>
+            <img id="portrait" class="portrait" alt="Character portrait" />
+          </div>
+
+          <div class="meta-box">
+            <h2>Overview</h2>
+
+            <div class="meta-grid">
+              <div class="field">
+                <div class="field-label">Name</div>
+                <div class="field-value" id="charName"></div>
+              </div>
+
+              <div class="field">
+                <div class="field-label">Creator</div>
+                <div class="field-value" id="creator"></div>
+              </div>
+            </div>
+
+            <div class="field full-width">
+              <div class="field-label">Author's Notes</div>
+              <div class="field-value" id="creatorNotes"></div>
+            </div>
+
+            <div class="field full-width">
+              <div class="field-label">Tags</div>
+
+              <div class="field-value">
+                <div class="tags" id="tags"></div>
+              </div>
+            </div>
+          </div>        
+
+        </div>
+
+        <div class="section">
+          <h2>Character Description</h2>
+          <div class="field-value" id="description"></div>
+        </div>
+
+        <div class="section">
+          <h2>Greetings</h2>
+
+          <div class="field">
+            <div class="field-label">Primary Greeting</div>
+            <div class="greeting" id="firstMessage"></div>
+          </div>
+
+          <div class="field">
+            <div class="field-label">Alternate Greetings</div>
+            <div id="alternateGreetings"></div>
+          </div>
+        </div>
+
+        <div class="section">
+          <h2>Everything Else</h2>
+
+          <div class="meta-grid">
+            <div class="field">
+              <div class="field-label">Personality</div>
+              <div class="field-value" id="personality"></div>
+            </div>
+
+            <div class="field">
+              <div class="field-label">Scenario</div>
+              <div class="field-value" id="scenario"></div>
+            </div>
+
+            <div class="field">
+              <div class="field-label">Character Version</div>
+              <div class="field-value" id="characterVersion"></div>
+            </div>
+
+            <div class="field">
+              <div class="field-label">Spec</div>
+              <div class="field-value" id="spec"></div>
+            </div>
+
+            <div class="field">
+              <div class="field-label">Spec Version</div>
+              <div class="field-value" id="specVersion"></div>
+            </div>
+          </div>
+
+          <div class="field full-width">
+            <div class="field-label">System Prompt</div>
+            <div class="field-value" id="systemPrompt"></div>
+          </div>
+
+          <div class="field full-width">
+            <div class="field-label">Post History Instructions</div>
+            <div class="field-value" id="postHistory"></div>
+          </div>
+
+          <div class="field full-width">
+            <div class="field-label">Example Dialogue</div>
+            <div class="field-value" id="exampleDialogue"></div>
+          </div>          
+
+          <div class="json-box">
+            <h2>Original JSON</h2>
+
+            <details>
+              <summary>Show / Hide Raw JSON</summary>
+              <pre id="rawJson"></pre>
+            </details>
+          </div>
+        </div>
+      </div>
+
+      <script>
+       const fileInput = document.getElementById('fileInput');
+       const status = document.getElementById('status');
+       const viewer = document.getElementById('viewer');
+
+       fileInput.addEventListener('change', async (e) => {
+           const file = e.target.files[0];
+
+           if (!file) {
+               return;
+           }
+
+           try {
+               status.textContent = 'Reading PNG...';
+
+               const imageUrl = URL.createObjectURL(file);
+               document.getElementById('portrait').src = imageUrl;
+
+               const buffer = await file.arrayBuffer();
+               const bytes = new Uint8Array(buffer);
+
+               const charaBase64 = extractChara(bytes);
+
+               if (!charaBase64) {
+                   throw new Error('No embedded character data found.');
+               }
+
+               status.textContent = 'Decoding character data...';
+
+               const decodedText = atob(charaBase64);
+               const parsed = JSON.parse(decodedText);
+
+               status.textContent = 'Rendering character card...';
+
+               renderCharacter(parsed, decodedText);
+
+               viewer.style.display = 'block';
+
+               status.textContent = 'Done.';
+           }
+           catch (err) {
+               console.error(err);
+               status.textContent = 'Error: ' + err.message;
+               viewer.style.display = 'none';
+           }
+       });
+
+       function renderCharacter(json, rawJson) {
+           const data = json.data || json;
+
+           setText('charName', data.name || json.name || 'Unknown');
+           setText('creator', data.creator || 'Unknown');
+           setText('creatorNotes', data.creator_notes || json.creatorcomment || 'None');
+           setText('description', data.description || json.description || 'No description.');
+           setText('firstMessage', data.first_mes || json.first_mes || 'No greeting.');
+           setText('personality', data.personality || json.personality || 'None');
+           setText('scenario', data.scenario || json.scenario || 'None');
+           setText('systemPrompt', data.system_prompt || 'None');
+           setText('postHistory', data.post_history_instructions || 'None');
+           setText('exampleDialogue', data.mes_example || json.mes_example || 'None');
+           setText('characterVersion', data.character_version || 'None');
+           setText('spec', json.spec || 'Unknown');
+           setText('specVersion', json.spec_version || 'Unknown');
+
+           const tagsContainer = document.getElementById('tags');
+           tagsContainer.innerHTML = '';
+
+           const tags = data.tags || json.tags || [];
+
+           if (tags.length === 0) {
+               tagsContainer.innerHTML = '<span>No tags</span>';
+           }
+           else {
+               tags.forEach(tag => {
+                   const el = document.createElement('div');
+                   el.className = 'tag';
+                   el.textContent = tag;
+                   tagsContainer.appendChild(el);
+               });
+           }
+
+           const altContainer = document.getElementById('alternateGreetings');
+           altContainer.innerHTML = '';
+
+           const alternateGreetings = data.alternate_greetings || [];
+
+           if (alternateGreetings.length === 0) {
+               altContainer.innerHTML = '<div class="greeting">No alternate greetings.</div>';
+           }
+           else {
+               alternateGreetings.forEach((greeting, index) => {
+                   const div = document.createElement('div');
+                   div.className = 'greeting';
+                   div.innerHTML = `<strong>Greeting ${index + 1}</strong><br><br>${escapeHtml(greeting)}`;
+                   altContainer.appendChild(div);
+               });
+           }
+
+           document.getElementById('rawJson').textContent = JSON.stringify(json, null, 2);
+       }
+
+       function setText(id, value) {
+           document.getElementById(id).textContent = value;
+       }
+
+       function escapeHtml(text) {
+           const div = document.createElement('div');
+           div.textContent = text;
+           return div.innerHTML;
+       }
+
+       function extractChara(bytes) {
+           const pngSignature = [
+               0x89, 0x50, 0x4E, 0x47,
+               0x0D, 0x0A, 0x1A, 0x0A
+           ];
+
+           for (let i = 0; i < pngSignature.length; i++) {
+               if (bytes[i] !== pngSignature[i]) {
+                   throw new Error('Not a valid PNG file.');
+               }
+           }
+
+           let offset = 8;
+
+           while (offset < bytes.length) {
+               const length =
+                   (bytes[offset] << 24) |
+                   (bytes[offset + 1] << 16) |
+                   (bytes[offset + 2] << 8) |
+                   bytes[offset + 3];
+
+               const type = String.fromCharCode(
+                   bytes[offset + 4],
+                   bytes[offset + 5],
+                   bytes[offset + 6],
+                   bytes[offset + 7]
+               );
+
+               const dataStart = offset + 8;
+               const dataEnd = dataStart + length;
+
+               if (type === 'tEXt' || type === 'iTXt') {
+                   const chunkData = bytes.slice(dataStart, dataEnd);
+                   const text = new TextDecoder().decode(chunkData);
+
+                   if (text.startsWith('chara')) {
+                       const nullIndex = text.indexOf('\0');
+
+                       if (nullIndex !== -1) {
+                           return text.substring(nullIndex + 1).trim();
+                       }
+                   }
+
+                   const match = text.match(/chara\0([\s\S]+)/);
+
+                   if (match) {
+                       return match[1].trim();
+                   }
+               }
+
+               offset = dataEnd + 4;
+           }
+
+           return null;
+       }
+      </script>
+  </body>
+</html>
