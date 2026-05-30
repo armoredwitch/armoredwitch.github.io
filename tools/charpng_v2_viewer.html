@@ -19,7 +19,7 @@
 
      h1, h2, h3 {
        margin-top: 0;
-       color: #66666;
+       color: #666666;
      }
 
      .full-width {
@@ -45,8 +45,26 @@
        margin-bottom: 1em;
      }
 
-     input[type="file"] {
+     .drop-zone {
+       border: 2px dashed #555;
+       border-radius: 0.5em;
+       padding: 2.5em 1em;
+       text-align: center;
+       cursor: pointer;
+       transition: background 0.2s, border-color 0.2s, color 0.2s;
        margin-bottom: 12px;
+       color: #999;
+       font-size: 1.1em;
+     }
+
+     .drop-zone:hover, .drop-zone.dragover {
+       background: #333;
+       border-color: #ffd166;
+       color: #ffd166;
+     }
+
+     input[type="file"] {
+       display: none;
      }
 
      .status {
@@ -77,12 +95,6 @@
        object-fit: contain;
        background: #111;
        border: 1px solid #444;
-     }
-
-     .meta-grid {
-       display: grid;
-       grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-       gap: 16px;
      }
 
      .field {
@@ -171,8 +183,9 @@
       <h1>PNG Character Viewer</h1>
 
       <div class="toolbar">
-        <input type="file" id="fileInput" accept=".png" />
         <div class="status" id="status">Select a character PNG file.</div>
+        <div id="dropZone" class="drop-zone">Click or drag character PNG here</div>
+        <input type="file" id="fileInput" accept=".png" />
       </div>
 
       <div id="viewer" style="display:none;">
@@ -292,16 +305,40 @@
        const fileInput = document.getElementById('fileInput');
        const status = document.getElementById('status');
        const viewer = document.getElementById('viewer');
+       const dropZone = document.getElementById('dropZone');
 
-       fileInput.addEventListener('change', async (e) => {
+       // Click to browse
+       dropZone.addEventListener('click', () => fileInput.click());
+
+       // Drag and drop handlers
+       dropZone.addEventListener('dragover', (e) => {
+           e.preventDefault();
+           dropZone.classList.add('dragover');
+       });
+
+       dropZone.addEventListener('dragleave', () => {
+           dropZone.classList.remove('dragover');
+       });
+
+       dropZone.addEventListener('drop', (e) => {
+           e.preventDefault();
+           dropZone.classList.remove('dragover');
+           const file = e.dataTransfer.files[0];
+           if (file) processFile(file);
+       });
+
+       // Fallback file input change
+       fileInput.addEventListener('change', (e) => {
            const file = e.target.files[0];
+           if (file) processFile(file);
+       });
 
-           if (!file) {
-               return;
-           }
-
+       async function processFile(file) {
            try {
                status.textContent = 'Reading PNG...';
+               
+               // Hide dropzone after file is provided
+               dropZone.style.display = 'none';
 
                const imageUrl = URL.createObjectURL(file);
                document.getElementById('portrait').src = imageUrl;
@@ -332,8 +369,9 @@
                console.error(err);
                status.textContent = 'Error: ' + err.message;
                viewer.style.display = 'none';
+               dropZone.style.display = 'block'; // Show dropzone again on error
            }
-       });
+       }
 
        function renderCharacter(json, rawJson) {
            const data = json.data || json;
